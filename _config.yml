@@ -1,10 +1,10 @@
-# Site settings
-title: Joshua Byrd
-email: phocks@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: ""
-url: "http://phocks.org"
+name: "Gereksiz"
+markdown: redcarpet
+highlighter: pygments
+permalink: :title
+exclude: [README.md, LICENSE, Makefile]
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# Information for the Atom feed
+gereksiz:
+   author: "John Doe"
+   email: "john.doe@mail.sexy"

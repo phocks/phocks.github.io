@@ -1,15 +1,17 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+<article>
+   <h2>{{ page.title }}</h2>
+   {{ content }}
+</article>
 
-  <article class="post-content">
-  {{ content }}
-  </article>
-
-</div>
+<footer>
+   <div id="date" class="meta">
+      {{ page.date | date_to_string }}
+   </div>
+   <div id="return">
+      <a href="/">&laquo; Return to the home page</a>
+   </div>
+</footer>
