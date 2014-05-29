@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            byrd
+description:      flyte
 logo:             site-logo.png
 disqus_shortname:
 search:           true
@@ -9,11 +9,11 @@ url:              http://phocks.github.io/
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Joshua Byrd
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          phocks@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
+  twitter: http://twitter.com/phocks
   facebook:
   github:
   stackexchange:
@@ -44,7 +44,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Australia/Brisbane
 future:      true
 highlighter: pygments
 markdown:    kramdown
