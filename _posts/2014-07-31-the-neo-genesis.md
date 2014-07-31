@@ -14,7 +14,7 @@ This time I'm stripping it right down. Currently typing this sentence into a tex
 
 The future unfolds. We are all travellers in time.
 
-In forging ahead new pathways are formed. For the past few days I have been learning this song on the piano—a slow process as I am pretty terrible still—and day after day, note after painstaking note I can almost feel the neurons falling into line.
+In forging ahead new pathways are formed. For the past few days I have been learning [this](http://youtu.be/FcOt6mfjxeA) song on the piano—a slow process as I am pretty terrible still—and day after day, note after painstaking note I can almost feel the neurons falling into line.
 
 And in this way we too press on; we align. Pathways to the past. Branching untold futures.
 
