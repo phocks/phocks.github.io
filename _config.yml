@@ -12,6 +12,7 @@ description:      'A simple blog, built on Jekyll, about the simple things in th
 url:              http://phocks.github.io/
 baseurl:          '/'
 paginate:         5
+timezone:         Australia/Brisbane
 
 author:
   name:           'Joshua Byrd'
