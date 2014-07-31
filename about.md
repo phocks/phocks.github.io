@@ -16,5 +16,4 @@ Cheers.
 jb
 
 
-![how do i do an image again](assets/josh-messiah.jpg "This is rather awkward")  
-This is me.
+![A picture of me.](assets/josh-messiah.jpg)This is me.
