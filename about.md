@@ -13,6 +13,4 @@ It's just started, so there won't be too much in it at the moment, but if you're
 
 You can also find me on [Twitter](https://twitter.com/phocks), [Instagrm](http://instagram.com/phocks), [Facebook](https://facebook.com/phocks), [Tumblr](http://phocks.tumblr.com/), etc, etc, etc.
 
-Cheers.
-
 Built on [Jekyll](http://jekyllrb.com/) using the [Lanyon](http://lanyon.getpoole.com/) theme, and hosted on [GitHub Pages](https://pages.github.com/).
