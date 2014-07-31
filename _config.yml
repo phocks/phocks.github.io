@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            phocks
 tagline:          'guarding the henhouse'
-description:      'a blog.'
+description:      'A simple blog, built on Jekyll, about the simple things in the daily life of Joshua Byrd.'
 url:              http://phocks.github.io/
 baseurl:          '/'
 paginate:         5
