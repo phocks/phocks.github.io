@@ -14,3 +14,7 @@ It's just started, so there won't be too much in it at the moment, but if you're
 Cheers.
 
 jb
+
+
+![how do i do an image again](assets/josh-messiah.jpg "This is rather awkward")
+This is me.
