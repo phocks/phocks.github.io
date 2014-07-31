@@ -13,7 +13,7 @@ It's just started, so there won't be too much in it at the moment, but if you're
 
 Cheers.
 
-jb
 
+![A picture of me.](assets/josh-messiah.jpg)
 
-![A picture of me.](assets/josh-messiah.jpg)This is me.
+Built on [Jekyll](http://jekyllrb.com/) using the [Lanyon](http://lanyon.getpoole.com/) theme, and hosted on [GitHub Pages](https://pages.github.com/).
