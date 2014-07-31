@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing This Blog
+title: Another Test Post
 ---
 
 FAnother post.
