@@ -18,4 +18,4 @@ In forging ahead new pathways are formed. For the past few days I have been lear
 
 And in this way we too press on. Pathways to the past. Branching futures.
 
-A new dawning each day.
+A new dawning every day.
