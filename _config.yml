@@ -3,7 +3,7 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-permalink:        pretty
+permalink:        none
 
 # Setup
 title:            phocks
