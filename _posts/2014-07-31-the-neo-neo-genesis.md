@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Neo Genesis
+title: The Neo Neo Genesis
 ---
 
 > “Toto, I have a feeling we're not in Kansas anymore.”  
@@ -14,4 +14,6 @@ This time I'm stripping it right down. Currently typing this sentence into a tex
 
 The future unfolds. We are all travellers in time.
 
-In forging ahead new pathways are formed. For the past few days I have been learning this song on the piano -- a painstaking progress as I am pretty terrible still -- 
+In forging ahead new pathways are formed. For the past few days I have been learning this song on the piano—a slow process as I am pretty terrible still—and day after day, note after painstaking note I could almost feel the neurons fall into line.
+
+And in this way
