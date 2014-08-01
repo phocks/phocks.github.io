@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WTF Is This?
+title: WTF is this?
 ---
 
 Well.
