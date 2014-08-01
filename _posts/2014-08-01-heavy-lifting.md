@@ -3,8 +3,8 @@ layout: post
 title: Heavy Lifting
 ---
 
-> "I never give you my pillow  
-> I only send you my invitations"  
+> I never give you my pillow  
+> I only send you my invitations  
 > —The Beatles
 
 Second post, keeping it very brief as I have to be up tomorrow at 5am. Today, helping out at [my old workplace](http://www.karuna.org.au/) in Windsor. Tomorrow is their annual fundraising Art Market event, and I have agreed to open at dawn.
