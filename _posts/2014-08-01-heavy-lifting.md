@@ -7,7 +7,7 @@ title: Heavy Lifting
 > I only send you my invitations  
 > —The Beatles
 
-Second post, keeping it very brief as I have to be up tomorrow at 5am. Today, helping out at [my old workplace](http://www.karuna.org.au/) in Windsor. Tomorrow is their annual fundraising Art Market event, and I have agreed to open at dawn.
+Second post, keeping it very brief as I have to be up tomorrow at 5am. Today, helping out at [my old workplace](http://www.karuna.org.au/) in Windsor. Tomorrow is their annual fundraising Art Market event, and I have agreed to open at dawn—for purely nostalgic reasons.
 
 Helping with the setup today, a few hours heavy lifting the likes I hadn't seen in a long long while. Summoned superhuman strength somehow. A strange feeling being back.
 
