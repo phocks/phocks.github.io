@@ -11,6 +11,6 @@ As you can see it is still in its infancy, so there won't be too much here at th
 
 You can also find me on [Twitter](https://twitter.com/phocks), [Instagrm](http://instagram.com/phocks), [Facebook](https://facebook.com/phocks), [Tumblr](http://phocks.tumblr.com/), etc, etc, etc.
 
-![A picture of me.](assets/josh-messiah.jpg)
+![A picture of me.](public/img/josh-messiah.jpg)
 
 Built on [Jekyll](http://jekyllrb.com/) using the [Lanyon](http://lanyon.getpoole.com/) theme, and hosted on [GitHub Pages](https://pages.github.com/).
