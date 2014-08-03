@@ -8,10 +8,10 @@ permalink:        none
 # Setup
 title:            phocks
 tagline:          'guarding the henhouse'
-description:      'A simple blog, built on Jekyll, about the simple things in the daily life of Joshua Byrd.'
+description:      'Some kind of blog written by Joshua Byrd.'
 url:              http://phocks.github.io/
 baseurl:          '/'
-paginate:         1
+paginate:         5
 timezone:         Australia/Brisbane
 
 author:
