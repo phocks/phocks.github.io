@@ -11,7 +11,7 @@ tagline:          'guarding the henhouse'
 description:      'A simple blog, built on Jekyll, about the simple things in the daily life of Joshua Byrd.'
 url:              http://phocks.github.io/
 baseurl:          '/'
-paginate:         5
+paginate:         1
 timezone:         Australia/Brisbane
 
 author:
