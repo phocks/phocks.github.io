@@ -14,4 +14,4 @@ Well, you're in luck! Create your new blog in just three easy steps.
 2. Rename your resulting repository to ```username.github.io``` (replacintg *username* with your username of course)
 3. That's it, pretty much! (you'll probably want to edit/delete/add your own posts in the ```_posts``` directory and customise the ```_config.yaml``` file of course)
 
-You can edit all of the site files directly on GitHub's web interface, or clone a copy locally.
+You can edit all of the site files directly on GitHub's web interface, or clone a copy locally..
