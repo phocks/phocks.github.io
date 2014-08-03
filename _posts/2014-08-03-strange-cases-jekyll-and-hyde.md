@@ -18,4 +18,4 @@ Start sharing your new <abbr title="Uniform Resource Locator. i.e. blahblah.gith
 
 You can edit all of the site files directly on GitHub's web interface, or else clone a copy locally, and hack away. You might also wish to satiate your curiosity further by trying out some other Jekyll themes, [Hyde](http://hyde.getpoole.com/) for example.
 
-So anyway I'm about to begin reading [this book](http://www.amazon.com/gp/product/0141439734/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0141439734&linkCode=as2&tag=phocks-20&linkId=TTIKGAK5AAUWLA4V), which strangely enough, I have never read before.
+So anyway I'm about to begin reading [this book](http://www.amazon.com/gp/product/0141439734/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0141439734&linkCode=as2&tag=phocks-20&linkId=TTIKGAK5AAUWLA4V), which strangely enough, I have never read before. 'Till next time.
