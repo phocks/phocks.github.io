@@ -11,7 +11,7 @@ Curiouser and curiouser, so said Alice as she telescoped to nine feet tall. She 
 Well, you're in luck! Create your new blog in just three easy steps.
 
 1. [Fork a copy](https://github.com/phocks/phocks.github.io) of this blog on GitHub (you have an account of course)
-2. Rename your resulting repository to ```username.github.io``` (replacintg *username* with your username of course)
+2. Rename your resulting repository to ```username.github.io``` (replacing *username* with your username of course)
 3. That's it, pretty much! (you'll probably want to edit/delete/add your own posts in the ```_posts``` directory and customise the ```_config.yaml``` file of course)
 
 Start sharing your new <abbr title="Uniform Resource Locator. i.e. blahblah.github.io">URL</abbr>!
