@@ -11,7 +11,7 @@ tagline:          'guarding the henhouse'
 description:      'Some kind of blog written by Joshua Byrd.'
 url:              http://phocks.github.io/
 baseurl:          '/'
-paginate:         2
+paginate:         5
 timezone:         Australia/Brisbane
 
 author:
