@@ -1,4 +1,4 @@
-# The Blog of Joshua Byrd
+# jb
 
 This is the README file, which is usually a good thing to have. I'll work on it a bit later.
 
