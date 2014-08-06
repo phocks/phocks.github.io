@@ -3,8 +3,8 @@ layout: post
 title: Strange Cases&#58; Jekyll & Hyde
 ---
 
->“It is one thing to mortify curiosity, another to conquer it.”  
->― Robert Louis Stevenson, *The Strange Case of Dr. Jekyll and Mr. Hyde*
+> “It is one thing to mortify curiosity, another to conquer it.”  
+> ― Robert Louis Stevenson, *The Strange Case of Dr. Jekyll and Mr. Hyde*
 
 Curiouser and curiouser, so said Alice as she telescoped to nine feet tall. She ate her cake and you can too! Ever wanted to [blog like a hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html) but didn't want to mess around installing complicated [command line ruby apps](http://jekyllrb.com/docs/quickstart/) and all that junk?
 
