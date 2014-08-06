@@ -5,7 +5,7 @@ title: Blessed Are The GifMakers
 
 _\*browsing tumblr like OMG that picture is moving\*_
 
-I've tried it a few times. Making GIFs in Photoshop is pretty hard. You have to import the and trim the video, then deal with the timeline and frames and everything. And to do those [sweet cinemagraph things](http://cinemagraphs.com/) you need to mess about with masking layers and often times it all gets a bit too much. 
+I've tried it a few times. Making GIFs in Photoshop is pretty hard. You have to import the and trim the video, then deal with the timeline and frames and everything. And to do those [sweet cinemagraph things](http://cinemagraphs.com/) you need to mess about with masking layers and often times it all gets a bit too much, and you cry. 
 
 Also I understand there are a few sites online that let you make GIFs, but they always slap their big ugly logo on to every frame, so they're pretty good candidates for avoidance most of the time.
 
