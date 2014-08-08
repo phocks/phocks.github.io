@@ -3,7 +3,7 @@ layout: post
 title: Resurrecting The Dead SSD
 ---
 
-I had my solid state drive for only a few months before it decided to die on me. Notoriously unreliable, as I found, and I lost my entire Windows installation. And in my drawer my <abbr title="Solid State Drive">SSD</abbr> stayed, like a m3ssiah in his tomb or whatever.
+I had my solid state drive for only a few months before it decided to die on me. Notoriously unreliable these things were, as I found, and I lost my entire Windows installation. And in my drawer my <abbr title="Solid State Drive">SSD</abbr> stayed, like a m3ssiah in his tomb or whatever.
 
 <blockquote class="twitter-tweet" lang="en"><p>receipt for this failed SSD is nowhere to be found; don&#39;t suppose they&#39;d accept the return without it.. <a href="https://twitter.com/hashtag/lifefail?src=hash">#lifefail</a></p>&mdash; ıllıllı j¤§ȟɥå βÿȑď (@phocks) <a href="https://twitter.com/phocks/statuses/134037288224165889">November 8, 2011</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
