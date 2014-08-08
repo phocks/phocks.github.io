@@ -10,7 +10,7 @@ I had my solid state drive for only a few months before it decided to die on me.
 
 A few years this drive remained undetectable by any <abbr title="Basic Input Output System">BIOS</abbr>. I was sure to check every so often for vital signs, though always nothing.
 
-And then one day, a revelation! An ancient technique rumoured to have worked in revival of bricked solid state drives long ago. And this is the simple resurrection ritual I performed:
+And then one day, a revelation! An ancient technique rumoured to have worked in the revival of bricked solid state drives long ago. And this is the simple resurrection ritual I performed:
 
 1. Attach SSD normally, switch on computer, see that it isn't recognised, switch off.
 2. Disconnect the serial ATA data connector and run the computer and drive with only the power cable connected for a full 20 minutes.
