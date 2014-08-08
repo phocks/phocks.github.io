@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WTF is this?
+title: About me
 ---
 
 Well. Hello.
