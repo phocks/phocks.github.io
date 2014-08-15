@@ -3,7 +3,7 @@ layout: post
 title: Learning PDO Data Objects & Other Recursive Acronyms
 ---
 
-I had avoided it so well and for so long, but a little while ago I decided it was about time I started properly learning about database programming, if I was going to do anything really serious on the web in times like these. PHP is usually my default language of choice first up (which stands for PHP Hypertext Preprocessor). I started a tutorial with the old `mysql_connect()` commands, but then apparently that was depreciated and so I tried `mysqli_connect()` for a little while before deciding what the hell I might as well go the whole hog and learn the object oriented PDO (which stands for PDO Data Objects funnily enough).
+I had avoided it so well and for so long, but a little while ago I decided it was about time I started properly learning about database programming, if I was going to do anything really serious on the web in times like these. PHP is usually my default language of choice first up *(which stands for PHP Hypertext Preprocessor)*. I started a tutorial with the old `mysql_connect()` commands, but then apparently that was depreciated and so I tried `mysqli_connect()` for a little while before deciding what the hell I might as well go the whole hog and learn the object oriented PDO *(which stands for PDO Data Objects funnily enough)*.
 
 So I thought I'd step through the very basics of interacting with MySQL using PHP and blog my progress and development along the way. So here goes! Well first off to do anything with a database you need to connect to it. To do this you create a new instance of the PDO class. Before that though let's set up these four variables needed to connect:
 
