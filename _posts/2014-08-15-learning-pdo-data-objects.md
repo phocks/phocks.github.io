@@ -43,6 +43,6 @@ while ($row = $stmt->fetch()) {
 	}
 {% endhighlight %}
 
-First we prepare a SQL statement, then we execute that statement on the database, then we fetch the rows one by one from the result and print them on the screen (in this case there will hopefully only be one result with a unique ID and we will be displaying it as html output in a web browser).
+First we prepare a SQL statement, then we execute that statement on the database, then we fetch the rows one by one from the result and print them on the screen (in this case there will hopefully only be one result with the unique ID of 1 and we will be displaying it as html output in a web browser).
 
 Okay well that's enough for now anyway. I thought it might be fun and helpful to step through this learning process, but it has turned out to be rather tedious lol, so I may or may not continue any more posts like this in the future. I hope you learnt something today anyway. Until next time.
