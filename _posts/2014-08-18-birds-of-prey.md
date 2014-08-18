@@ -1,8 +1,14 @@
 ---
 layout: post
 title: Birds of Prey
-
+---
 
 ![raptors couch](public/img/raptors-couch.jpg)
 
-We are going on tour starting Thursday to promote the new album.
+[We](https://www.facebook.com/velociraptorband) are [going on tour](http://www.fasterlouder.com.au/news/39958/Velociraptor-release-new-single-Sneakers-announce-tour) starting Thursday to promote [the new album](http://www.couriermail.com.au/entertainment/music/album-reviews-velociraptor-chrissie-hynde-fozzy-gabriel-faure-livingstone-daisies-king-creosote-lawrence-english/story-fnihmead-1227026011032?nk=d78cac55afef59868ac1c47feaf8dd77). Jezza asked me for two or three sentences about one of the tracks we recorded in Berlin for a [track by track](http://www.tonedeaf.com.au/416420/track-track-velociraptor-velociraptor.htm), and I think I went slightly overboard, just a little. Anyway here it is:
+
+>When Velociraptor's European tour at last came to an end, three Raptors stayed behind, thus creating Velociraptor's "Euro Division" or "EuroRaptors" for short. They wandered far and wide and when news came of the upcoming album they finally came together in Berlin to record over a few days at Simon Berkfinger's "Golden Retriever Studios". These sessions were then teleported back to Brisbane for a tiny bit of tampering before the final product.
+
+>James X. Boyd and I had just been on a day trip to Abbey Road Studios in London (read: Day Tripper, one way ticket yeah), and I had started listening again to a lot of early 60s tunes and also to a lot of those Phil Spector sounding girl group songs of the 60s like *'Be My Baby', *'Baby, I Love You'*, *'Baby Love'*, *'Oh Yeah, Maybe Baby'* to name a few. I didn't have a guitar when I first started living in London so I came up with the chords on a synth program on my laptop and some of the lyrics, wanting to keep things supremely simple and to the point, and retaining that original Ronettes influence. A few months later up in Edinburgh visiting James X. Boyd, I had bought a guitar by then and wrote the rest of the lyrics and we both fleshed out the structure and demoed the song in James's cold and grey Edinburgh living room.
+
+>I Don't Know Why (It's You) was the first song we recorded at Golden Retriever and we intended to knock it over quite quickly and move on to other songs, but it turned out sounding quite nice and we came back later to put in some extra parts. It was was originally quite a bit faster, but Simon Berkfinger persuaded us to experiment a little with the tempo a bit until we got it to that laid-back dreamy feel. It was a little difficult on a tight recording schedule but the aim was to get a touch of that high reverb, high tambourine, wall-of-sound vibe in the song with old 60s stylings and still slipping in some more modern Raptors sounding elements here and there.
