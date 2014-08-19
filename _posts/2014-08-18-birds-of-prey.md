@@ -3,7 +3,7 @@ layout: post
 title: Birds of Prey
 ---
 
-![raptors couch](public/img/raptors-couch.jpg)
+![Velociraptors on a couch](public/img/velo.jpg)
 
 [We](https://www.facebook.com/velociraptorband) are [going on tour](http://www.fasterlouder.com.au/news/39958/Velociraptor-release-new-single-Sneakers-announce-tour) starting Thursday to promote [the new album](http://www.couriermail.com.au/entertainment/music/album-reviews-velociraptor-chrissie-hynde-fozzy-gabriel-faure-livingstone-daisies-king-creosote-lawrence-english/story-fnihmead-1227026011032?nk=d78cac55afef59868ac1c47feaf8dd77). [Jezza](https://twitter.com/SegaDreamboat) asked me for two or three sentences about one of the tracks we recorded in Berlin for a [track by track](http://www.tonedeaf.com.au/416420/track-track-velociraptor-velociraptor.htm), and I think I went a bit overboard.
 
