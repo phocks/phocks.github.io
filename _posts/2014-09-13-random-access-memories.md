@@ -9,7 +9,7 @@ title: Random Access Memories
 
 So here's the customary *I never do these things* but, the other day I was tagged by [this pretty kitty](http://hellskittencouture.tumblr.com/) on [tumblr](http://phocks.tumblr.com), and I thought what the hell.
 
-I was quite surprised by what came out, like the draw of tarrot cards or something. I wonder however just how much you can tell about a person from this.. have a listen anyway~!
+I was quite surprised by what emerged in the end, like the draw of some musical tarrot cards or something. I wonder however just how much you can tell about a person from this.. have a listen anyway~!
 
 
 <iframe src="http://8tracks.com/mixes/4781234/player_v3_universal" width="500" height="500" style="border: 0px none;"></iframe>
