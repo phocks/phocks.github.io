@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mouse Art
+title: Modern Mouse Art
 ---
 
 ![IOGraphica](public/img/IOGraphica.png)
