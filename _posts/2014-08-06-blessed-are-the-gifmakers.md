@@ -17,6 +17,6 @@ Well good news, it actually does exist! It's this little program called [GifCam]
 
 And here's one I prepared earlier too:
 
-![colour ghost](public/img/colour-ghost-screen-smallest.gif)
+![colour ghost](/public/img/colour-ghost-screen-smallest.gif)
 
 *ps. unfortunately GifCam only available for Windows right now.*
