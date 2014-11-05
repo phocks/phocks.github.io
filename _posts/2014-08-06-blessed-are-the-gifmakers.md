@@ -11,7 +11,7 @@ Also I understand there are a few sites online that let you make GIFs, but they 
 
 Wouldn't it be great if there was something like this?
 
-![GifCam animation](public/img/gifcamaiming.gif)
+![GifCam animation](http://phocks.github.io/public/img/gifcamaiming.gif)
 
 Well good news, it actually does exist! It's this little program called [GifCam](http://blog.bahraniapps.com/gifcam/) which simplifies the whole process a lot. You can [download it directly](http://www.bahraniapps.com/apps/gifcam/gifcam.php) from here and check it out.
 
