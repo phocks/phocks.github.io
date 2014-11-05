@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Modern Mouse Art
+tags: web, technology, art
 ---
 
 ![IOGraphica](public/img/IOGraphica.png)
