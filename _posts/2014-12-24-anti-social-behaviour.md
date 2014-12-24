@@ -9,8 +9,10 @@ On the 1st of December, 2014 I decided to have a break from social media. Way ba
 <blockquote class="twitter-tweet" lang="en"><p>setting up my twitter account</p>&mdash; ıllıllı joshua byrd (@phocks) <a href="https://twitter.com/phocks/status/46733802">May 2, 2007</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-After 7 years that initial spark had certainly dwindled. And so I got the idea late November that I wanted to see what it was like to not be beholden to these websites each day, just for a little while. 
+After 7 years that initial spark had certainly dwindled. For most of these sites I found that I was only updating them and checking them out of habit or because I felt almost obligated to. And so I got the idea late November that I wanted to see what it was like to not be beholden to these websites each day, just for a little while. I even went back to using my old Nokia phone. 
 
-Of course I didn't abstain from the internet completely. During the month away I have been looking for a new job, working on my own projects, and tending to other commitments. I also found that the fine line that distinguishes social media from the rest of the internet is often vaguely defined. In a way, email is the largest social media platform in the world. 
+It was great! The taste of freedom!
+
+Of course I didn't abstain from the internet completely. During the month away I have been looking for a new job, working on my own projects, and tending to other commitments. I also found that the fine line that distinguishes social media from the rest of the internet is often vaguely defined and that's what largely drew my excess attention. In a way, email is the largest social media platform in the world. 
 
 And now as the month wears thin and the time to return calls me back to the great social stream, I can appreciate the time spent apart. I did get quite a few things done that I wanted to get done without that additional undue distraction. But I also learnt that the art of procrastination in an ancient one and easily found even in the absence of a few major social media platforms. 
