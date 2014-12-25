@@ -19,4 +19,4 @@ Of course I didn't abstain from the internet completely. During the month away I
 
 And now as the month wears thin and the time to return calls me back to that great social stream, I can appreciate the time spent apart. I did get quite a few things done. All those things I wanted to get done without additional undue distraction. But I also learnt that the art of procrastination and distraction is an ancient one, one easily found, even in the absence of a few major social media platforms.
 
-In the end I truly believe it doesn't really matter how many social networks you are active on at any given time. In any life, Productivity and procrastination will forever be locked in that eternal battle for the mind and for all time.
+In the end I truly believe it doesn't really matter how many social networks you are active on at any given time. In any life, productivity and procrastination will forever be locked in that eternal battle for the mind and for all time.
