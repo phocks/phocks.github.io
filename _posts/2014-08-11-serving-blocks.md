@@ -15,4 +15,4 @@ If you wanted to try joining `phocks.ddns.net:25565` to say hi and help build or
 
 But for now, here's a picture of a sunset from the top of a shelter that I built:
 
-![Minecraft sunset](public/img/minecraft-sunset.jpg)
+![Minecraft sunset](/public/img/minecraft-sunset.jpg)
