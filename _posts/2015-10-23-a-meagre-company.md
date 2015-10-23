@@ -14,4 +14,4 @@ We settled on an inital idea and have been developing it (slowly) ever since. Li
 
 But an Alpha release is there on the horizon. I can see it. Though the horizon seems to be getting further and further away at times. It's time to make the Meagre Company something subtantial.
 
-![We cannot live only for ourselves.](/img/melville.png)
+![We cannot live only for ourselves.](/public/img/melville.png)
