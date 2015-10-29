@@ -4,6 +4,8 @@ title: A Meagre Company
 tags: newyear web internet startups
 ---
 
+![We cannot live only for ourselves.](/public/img/melville.png)
+
 Has it really been this long? So it seems I've been busy this past year. What have I been doing? I got a job. I got two jobs. My old work now has me back there part-time. A relief on the back pocket, as I'd been drifting and freelancing for so long that I thought I would float away.
 
 Earlier this year I was working for a company down on the Gold Coast for a while, helping to build a mobile app. It was a long drive down there every day and on the way I decided to listen to a set of lectures on [How To Start A Startup](https://startupclass.co/) and soon after that "Meagre" was born, in the mind at least, although the seeds of something similar had been floating around for a long long time already.
@@ -15,5 +17,3 @@ We settled on an inital idea and have been developing it (slowly) ever since. Li
 But an Alpha release is there on the horizon. I can see it. Though the horizon seems to be getting further and further away at times.
 
 But now it's time to make this Meagre Company into something substantial.
-
-![We cannot live only for ourselves.](/public/img/melville.png)
