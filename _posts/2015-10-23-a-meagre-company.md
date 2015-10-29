@@ -16,4 +16,4 @@ We settled on an inital idea and have been developing it (slowly) ever since. Li
 
 But an Alpha release is there on the horizon. I can see it. Though the horizon seems to be getting further and further away at times.
 
-But now it's time to make this Meagre Company into something substantial.
+But now it's time to make this Meagre Company into something substantial!
