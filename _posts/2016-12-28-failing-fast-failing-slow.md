@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Failing Fast, Failing Slow'
-tags: blog hello comeback
+tags: blog fail fast slow startups
 published: true
 ---
 
