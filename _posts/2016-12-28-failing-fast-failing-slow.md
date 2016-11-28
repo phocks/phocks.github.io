@@ -2,7 +2,7 @@
 layout: post
 title: Hello Again
 tags: blog hello comeback
-published: true
+published: false
 ---
 
 Okay that may have been a little hasty, and I'm sorry. I was temped by by some kind of [Ghost](http://ghost.org) who may have possessed me or something.
@@ -46,7 +46,3 @@ We were in the air as it happened. It took me by surprise to say the least. The 
 Do I still want to visit next year? We will stick to the blue states perhaps.
 
 Melbourne went well. Sydney even better. I think I've got an interstate cold coming on, as expected.
-
-
-
-
