@@ -2,7 +2,7 @@
 layout: post
 title: 'Failing Fast, Failing Slow'
 tags: blog hello comeback
-published: false
+published: true
 ---
 
 Last week I tweeted this after sending an email to my cofounder:
