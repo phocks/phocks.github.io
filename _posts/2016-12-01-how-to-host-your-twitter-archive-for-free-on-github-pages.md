@@ -2,7 +2,7 @@
 layout: post
 title: How to host your Twitter archive for free on GitHub Pages
 tags: blog hello comeback
-published: false
+published: true
 ---
 
 You've been able to [download your full Twitter archive](https://support.twitter.com/articles/20170160) for a few years now. This is great if you want to search locally through all your tweets. But what if you want to share your archive with the world?
