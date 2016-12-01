@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 'How to host your Twitter archive for free on Github Pages'
+title: How to host your Twitter archive for free on GitHub Pages
 tags: blog hello comeback
 published: false
 ---
 
-Last week I tweeted this after sending an email to my cofounder:
+You've been able to [download your full Twitter archive](https://support.twitter.com/articles/20170160) for a while now. This is great if you want to search locally through all your tweets. But what if you want to share your archive with the world?
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">fail fast<br>fail early<br>fail often<br>fail cheap<br>fail gently<br>fail hard<br>fail easy<br>fail fair<br>fail better<br>fail forward<br><br>then...<br><br>fail at failing</p>&mdash; inglourious phocks (@phocks) <a href="https://twitter.com/phocks/status/800148048919732224">November 20, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Luckily [Github Pages](https://pages.github.com/) offers free hosting for static web pages. Here's how to quickly set this up. For now I'll be using the [desktop version of GitHub](https://desktop.github.com/) but I might add in the commandline process at a later date.
+
+Firstly you'll need a GitHub account
