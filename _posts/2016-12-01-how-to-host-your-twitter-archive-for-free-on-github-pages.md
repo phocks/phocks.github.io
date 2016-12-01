@@ -11,4 +11,12 @@ Luckily [Github Pages](https://pages.github.com/) offers free hosting for static
 
 Firstly you'll need a [GitHub](http://github.com) account so create one if you don't have one or log in and then create a new repository called "tweets" or something like that.
 
+Open the  GitHub desktop client on your computer and clone the "tweets" repository (using the little + sign in the top left) to wherever you like.
+
+Now unzip your Twitter archive into the repository folder. Then you can commit the changes by adding a brief summary and clicking "commit to master". Then hit "Publish" or "Sync" up the top right. Wait a little while because this may take a few minutes to upload.
+
+Next go to your GitHub account in your web browser and navigate to your archive. Then click "Settings" and scroll down to the "GitHub Pages" section. Select "master branch" from the dropdown box and hit "Save".
+
+That should be it. It may take up to 5 minutes for your site to be live but after that you should be good to go.
+
 
