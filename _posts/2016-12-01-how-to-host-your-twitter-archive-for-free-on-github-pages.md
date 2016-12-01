@@ -19,4 +19,4 @@ Next go to your GitHub account in your web browser and navigate to your archive.
 
 That should be it. It may take up to 5 minutes for your site to be live but after that you should be good to go.
 
-Anyway here's my Twitter archive. Check it out https://phocks.github.io/tweets/
+Anyway here's my Twitter archive. Check it out [here](https://phocks.github.io/tweets/).
