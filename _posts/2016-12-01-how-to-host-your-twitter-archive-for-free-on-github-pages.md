@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to host your Twitter archive for free on GitHub Pages
-tags: blog hello comeback
+tags: twitter archive post web
 published: true
 ---
 
