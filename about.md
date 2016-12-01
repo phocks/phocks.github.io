@@ -12,3 +12,5 @@ You can also find me active on [Twitter](https://twitter.com/phocks), [Instagrm]
 <!-- ![A picture of me.](public/img/josh-messiah.jpg) -->
 
 Built on [Jekyll](http://jekyllrb.com/) using the [Lanyon](http://lanyon.getpoole.com/) theme, and hosted on [GitHub Pages](https://pages.github.com/).
+
+Oh yeah and my tweet archive is [here](https://phocks.github.io/tweets/).
