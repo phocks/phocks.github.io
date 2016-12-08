@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to host your Twitter archive for free on GitHub Pages
+title: How to host your Twitter archive for free
 tags: twitter archive post web
 published: true
 ---
