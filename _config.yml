@@ -25,4 +25,4 @@ version:          0.0.6
 github:
   repo:           https://github.com/phocks/phocks.github.io
 
-gems:             [jekyll-paginate]
+gems:             ['jekyll-paginate']
