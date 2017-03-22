@@ -3,11 +3,9 @@ layout: page
 title: About Me
 ---
 
-Well. Hello.
+Hey there. Welcome to the blog.
 
-This is a blog or something.
-
-You can also find me active on [Twitter](https://twitter.com/phocks), [Instagrm](http://instagram.com/phocks), [Facebook](https://facebook.com/phocks), [Tumblr](http://phocks.tumblr.com/), etc, etc, etc, etc. Or shoot me an email at [phocks@gmail.com](mailto:phocks@gmail.com)
+You can also find me most active on [Twitter](https://twitter.com/phocks), [Instagrm](http://instagram.com/phocks), [Facebook](https://facebook.com/phocks), [Tumblr](http://phocks.tumblr.com/), etc, etc, etc, etc. Or shoot me an email at [phocks@gmail.com](mailto:phocks@gmail.com)
 
 ![A picture of me.](public/img/josh-messiah.jpg)
 
