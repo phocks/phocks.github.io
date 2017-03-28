@@ -1,9 +1,10 @@
 ---
 layout: page
 title: About Me
+published: true
 ---
 
-Hey there. Welcome to the blog.
+My twitter profile descibes me as "Humble pant-based song and dance man computer genius saviour of the universe" and yeah that's pretty accurate.
 
 You can also find me most active on [Twitter](https://twitter.com/phocks), [Instagrm](http://instagram.com/phocks), [Facebook](https://facebook.com/phocks), [Tumblr](http://phocks.tumblr.com/), etc, etc, etc, etc. Or shoot me an email at [phocks@gmail.com](mailto:phocks@gmail.com)
 
