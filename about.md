@@ -4,9 +4,9 @@ title: About Me
 published: true
 ---
 
-My twitter profile descibes me as "Humble pant-based song and dance man computer genius saviour of the universe" and yeah that's pretty accurate.
+I am a guy who currently resides in Brisbane, Australia and builds things on the internet and resurrects dead computer systems.
 
-You can also find me most active on [Twitter](https://twitter.com/phocks), [Instagrm](http://instagram.com/phocks), [Facebook](https://facebook.com/phocks), etc, etc, etc, etc. 
+You can find me most active on [Twitter](https://twitter.com/phocks), [Instagrm](http://instagram.com/phocks), [Facebook](https://facebook.com/phocks), etc, etc, etc, etc. 
 
 Or a plain old email would be great at [phocks@gmail.com](mailto:phocks@gmail.com)
 
