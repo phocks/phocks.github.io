@@ -38,7 +38,7 @@ called  or whatever and open it in your web browser:
 
 OK so what’s going on here?
 
-It’s just your basic HTML5 page as indicated by the `<DOCTYPE html>` up top. The  needs to be
+It’s just your basic HTML5 page as indicated by the `<!DOCTYPE html>` up top. The  needs to be
 set to `UTF-8` for some reason or it won’t work. Then we have our title. Then three
 external scripts are imported so that React works. Don’t worry about these yet.
 
