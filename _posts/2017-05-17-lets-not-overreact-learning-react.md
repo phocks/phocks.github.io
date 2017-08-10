@@ -59,7 +59,7 @@ Here’s the new code anyway:
 
 <script src="https://gist.github.com/phocks/68781ef10580971aa4ab1f282be217f7.js"></script>
 
-<small>Unfortunately Gist doesn’t highlight text/babel code just yet :(</small>
+<small>Unfortunately Gist doesn’t highlight text/babel code just yet :( 2017/08/10 update: it looks like they do now!</small>
 
 Save this file or copy and paste the code into a HTML file and open it up in
 your web browser and you should get a big giant random number between 1 and 45
