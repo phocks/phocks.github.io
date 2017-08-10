@@ -33,7 +33,7 @@ React “element”. Whatever.
 
 Let’s start building.
 
-#### Baby’s first component
+### Baby’s first component
 
 A React component is made up of one or more elements wrapped up in a JavaScript
 “function” or a JavaScript “class”. For now we’re just gonna focus on functions
