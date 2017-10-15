@@ -2,8 +2,6 @@
 published: true
 title: OK I learnt React — kinda — and got hired as a front-end developer
 ---
-# OK I learnt React — kinda — and got hired as a front-end developer
-
 ![React Mountain 3]({{site.baseurl}}/public/img/react-mountain.jpg)
 
 
