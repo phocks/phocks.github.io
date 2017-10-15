@@ -4,7 +4,7 @@ title: OK I learnt React — kinda — and got hired as a front-end deve
 ---
 # OK I learnt React — kinda — and got hired as a front-end developer
 
-![1 hHRgWSsQWgHxLz4Qr3m-dQ.jpeg]({{site.baseurl}}/_posts/1 hHRgWSsQWgHxLz4Qr3m-dQ.jpeg)
+![React Mountain 3]({{site.baseurl}}/public/img/react-mountain.jpg)
 
 
 ## But it wasn’t because I learnt React
