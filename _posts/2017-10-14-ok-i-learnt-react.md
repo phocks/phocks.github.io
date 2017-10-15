@@ -29,7 +29,7 @@ But I persisted, for a bit.
 
 I would like to say that I got hired because I learnt React inside and out and was a genius at it. But I think it would be more accurate to say I got hired because I showed my willingness to learn new things.
 
-(Plus I knew someone on the inside who recommended me for the position… that may or may not have had something to do with it.)
+_(Plus I knew someone on the inside who recommended me for the position… that may or may not have had something to do with it.)_
 
 There was also a hell of a lot of trial and error and outright rejection beforehand while I was out there in the brutal job market. It was definitely a tough few months.
 
