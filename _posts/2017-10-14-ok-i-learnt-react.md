@@ -2,7 +2,7 @@
 published: true
 title: OK I learnt React — kinda — and got hired as a front-end developer
 ---
-![React Mountain 3]({{site.baseurl}}/public/img/react-mountain.jpg)
+![React Mountain 3](/public/img/react-mountain.jpg)
 
 
 ## But it wasn’t because I learnt React
