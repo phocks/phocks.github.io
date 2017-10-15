@@ -1,3 +1,7 @@
+---
+published: false
+title: OK I learnt React — kinda — and got hired as a front-end developer
+---
 # OK I learnt React — kinda — and got hired as a front-end developer
 
 But it wasn’t because I learnt React
