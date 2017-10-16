@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 title: OK I learnt React — kinda — and got hired as a front-end developer
 ---
 ![React Mountain 3](/public/img/react-mountain3.jpg)
