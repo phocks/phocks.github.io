@@ -7,8 +7,8 @@ permalink:        none
 
 # Setup
 title:            phocks
-tagline:          'observations on life, the universe, and nothing'
-description:      'Some kind of blog written by Joshua Byrd.'
+tagline:          'a blog'
+description:      'A weblog by Joshua Byrd.'
 url:              http://phocks.github.io/
 baseurl:          '/'
 paginate:         5
