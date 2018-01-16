@@ -15,3 +15,5 @@ Or a plain old email would be great at [phocks@gmail.com](mailto:phocks@gmail.co
 This blog is built on [Jekyll](http://jekyllrb.com/) using the [Lanyon](http://lanyon.getpoole.com/) theme, and hosted on [GitHub Pages](https://pages.github.com/).
 
 Oh yeah and my tweet archive is [here](https://phocks.github.io/tweets/).
+
+That's about it. Thanks for reading.
