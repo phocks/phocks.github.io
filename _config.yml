@@ -9,7 +9,7 @@ permalink:        none
 title:            phocks
 tagline:          'a blog'
 description:      'A weblog by Joshua Byrd.'
-url:              http://phocks.github.io
+url:              https://phocks.github.io
 baseurl:          '/'
 paginate:         5
 timezone:         Australia/Brisbane
