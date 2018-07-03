@@ -7,7 +7,7 @@ Perhaps another attempt at updating this blog. It's been over a year since I sta
 
 We moved house back to my old stomping grounds as a kid. Not too far away from Mum's house, which will be good when the baby arrives.
 
-A bit over 5 weeks ago I fell off my electric push-bike and fractured by foot. I have been on crutches and and been on the mend slowly ever since.
+A bit over 5 weeks ago I fell off my electric push-bike and fractured by foot. I have been on crutches and have been on the mend slowly ever since.
 
 I can't wait for everything to get back to normal.
 
