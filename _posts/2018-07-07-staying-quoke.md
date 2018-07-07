@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Stay Quoke
+title: Staying Quoke
 ---
 Sometime last year I registered a domain name, mostly because it was on special for $3.29.
 
