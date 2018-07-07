@@ -8,13 +8,11 @@ Sometime last year I registered a domain name, mostly because it was on special 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">i registered a domain for <br>$3.29<br>watch this<br>space <a href="https://t.co/ueClvoOQF6">https://t.co/ueClvoOQF6</a></p>&mdash; Hillary was right (@phocks) <a href="https://twitter.com/phocks/status/889042868974764032?ref_src=twsrc%5Etfw">July 23, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I've been dragging my feet on this, I know. I've been pretty busy over the past year, but mainly it's been been because I couldn't get the vision clear in my mind of what I wanted this site to be.
-
-It kept changing from one thing to another, like some kind of chameleon shape-shifter.
+I've been dragging my feet on this, I know. I've been pretty busy over the past year, but mainly it's been been because I couldn't get the vision clear in my mind of what I wanted this site to be. It kept changing from one thing to another, like some kind of chameleon shape-shifter.
 
 Anyway it's about time I shipped something. Introducing [Quoke](https://quoke.co/), a collaborative (hopefully) curated collection of famous quotations shocasing different design styles in `html` and `css` (and maybe a bit of JavaScript).
 
-![Quoke featured](/public/img/quoke-featured.png)
+[![Quoke featured](/public/img/quoke-featured.png)](https://quoke.co/)
 
 It will be updated whever I get the chance. I'll add new quotes and designs. I'll also be calling on submisions from friends.
 
