@@ -10,11 +10,11 @@ Almost a year ago I registered a domain name, mostly because it was on special f
 
 I've been dragging my feet on this somewhat. Things have been pretty busy over the past year, but mainly it's been been because I couldn't get the vision clear in my mind of what I wanted this site to be. It kept changing from one thing to another, like some kind of chameleon shape-shifter.
 
-Anyway it's about time I shipped something. Introducing [Quoke](https://quoke.co/), a collaborative (hopefully) curated collection of famous quotations shocasing different design styles in `html` and `css` (and maybe a bit of JavaScript).
+Anyway it's about time I shipped something. Introducing [Quoke](https://quoke.co/), a collaborative (hopefully) curated collection of famous quotations showcasing different design styles in `html` and `css` (and maybe a bit of JavaScript).
 
 [![Quoke featured](/public/img/quoke-featured.png)](https://quoke.co/)
 
-It will be updated whever I get the chance. I'll add new quotes and designs. I'll also be calling on submisions from friends.
+It will be updated whenever I get the chance. I'll add new quotes and designs. I'll also be calling on submissions from friends.
 
 So if you have a quotation in mind simply design it up as a standalone `.html`. file and make a pull request to the [GitHub repository](https://github.com/quoke/quoke.github.io) with it in the `_quotations` directory.
 
