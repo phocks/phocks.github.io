@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Staying Quoke
 ---
-Sometime last year I registered a domain name, mostly because it was on special for $3.29.
+Almost a year ago I registered a domain name, mostly because it was on special for $3.29.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">i registered a domain for <br>$3.29<br>watch this<br>space <a href="https://t.co/ueClvoOQF6">https://t.co/ueClvoOQF6</a></p>&mdash; Hillary was right (@phocks) <a href="https://twitter.com/phocks/status/889042868974764032?ref_src=twsrc%5Etfw">July 23, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
