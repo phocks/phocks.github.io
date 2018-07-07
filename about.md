@@ -17,3 +17,5 @@ This blog is built on [Jekyll](http://jekyllrb.com/) using the [Lanyon](http://l
 Oh yeah and my tweet archive is [here](https://phocks.github.io/tweets/).
 
 That's about it. Thanks for reading.
+
+![Josh](/public/img/josh-messiah.jpg)
