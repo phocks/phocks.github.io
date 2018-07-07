@@ -16,7 +16,7 @@ Anyway it's about time I shipped something. Introducing [Quoke](https://quoke.co
 
 It will be updated whever I get the chance. I'll add new quotes and designs. I'll also be calling on submisions from friends.
 
-So if you have a quotation in mind simply design it up as a standalone `.html. file and make a pull request to the [GitHub repository](https://github.com/quoke/quoke.github.io).
+So if you have a quotation in mind simply design it up as a standalone `.html`. file and make a pull request to the [GitHub repository](https://github.com/quoke/quoke.github.io) with it in the `_quotations` directory.
 
 Your HTML should look a bit like this:
 
@@ -61,4 +61,6 @@ tags: featured
 </div>
 ```
 
-It's hosted directly on GitHub (just like this blog) using [Jekyll](https://jekyllrb.com/). So if you want to help out with content or even with developing the site into something special, please [just shout out](https://twitter.com/phocks). Cheers!
+It's hosted directly on GitHub (just like this blog) using [Jekyll](https://jekyllrb.com/). So if you want to help out with content or even with developing the site into something special, please [just shout out](https://twitter.com/phocks).
+
+I'm looking forward to seeing the designs people come up with!
