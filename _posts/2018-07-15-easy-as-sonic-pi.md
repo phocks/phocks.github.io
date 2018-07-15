@@ -40,7 +40,7 @@ with_fx :reverb, mix: 0.7 do
 end
 ```
 
-This is just one of the standard examples. It's the one that struck me as to how this tool could possibly used in a live performance.
+This is just one of the standard examples. It's the one that struck me instantly. Imagine the possibilities!
 
 The synths play through different notes that loop at different intervals so they create a kind of non-repeating soundscape.
 
