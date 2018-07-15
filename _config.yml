@@ -8,7 +8,7 @@ permalink:        none
 # Setup
 title:            phocks
 tagline:          'a dev blog or something'
-description:      'A weblog by Joshua Byrd.'
+description:      'a dev blog or something'
 url:              https://phocks.github.io
 baseurl:          '/'
 paginate:         5
