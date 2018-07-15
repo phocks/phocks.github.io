@@ -2,9 +2,9 @@
 published: true
 title: Easy as Sonic Pi
 ---
-I was wowed by this tool called [Sonic Pi](https://sonic-pi.net/) a little while ago. It's [open source](https://github.com/samaaron/sonic-pi). It lets you write music in what looks like [Ruby](https://www.ruby-lang.org/en/) code. But I haven't had a chance to properly play around with it or learn how to actually make any proper music with it.
+I was wowed by this tool called [Sonic Pi](https://sonic-pi.net/) a little while ago. It's [open source](https://github.com/samaaron/sonic-pi). It lets you write music in what looks like [Ruby](https://www.ruby-lang.org/en/) code. But I haven't had a chance to properly play around with it or learn how to actually make any proper music with it... until now!
 
-Today that changes. I just went through a few of [the tutorials](https://sonic-pi.net/tutorial.html) and everything seems to make sense.
+I just went through a few of [the tutorials](https://sonic-pi.net/tutorial.html) and everything seems to make sense.
 
 Anyway it's pretty easy to get started: just [download the app](https://sonic-pi.net/) and run it. Then paste the following code into the editor and hit Run.
 
@@ -40,8 +40,10 @@ with_fx :reverb, mix: 0.7 do
 end
 ```
 
-This example is just one of the standard examples. It's the one that struck me as to how this tool could possibly used in a live performance.
+This is just one of the standard examples. It's the one that struck me as to how this tool could possibly used in a live performance.
 
 The synths play through different notes that loop at different intervals so they create a kind of non-repeating soundscape.
 
-Someone has also coded the [Super Mario Bros. theme](https://gist.github.com/xavriley/87ef7548039d1ee301bb) in it. Pretty fun!
+Someone has also coded the [Super Mario Bros. theme](https://gist.github.com/xavriley/87ef7548039d1ee301bb) in it.
+
+Pretty fun times ahead!
