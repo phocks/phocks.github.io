@@ -1,28 +1,24 @@
-# Dependencies
-# markdown:         redcarpet
-highlighter:      rouge
-
-# Permalinks
-permalink:        none
-
-# Setup
-title:            phocks
-tagline:          'a dev blog or something'
-description:      'a dev blog or something'
-url:              https://phocks.github.io
-baseurl:          '/'
-paginate:         5
-timezone:         Australia/Brisbane
-encoding:         utf-8
-
+# Site settings
+title: "phocks"
+description: "a dev blog or something"
+tagline: "a dev blog or something"
+# baseurl: "/textlog" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
+url: ""
 author:
   name:           'Joshua Byrd'
   url:            https://twitter.com/phocks
 
-# Custom vars
-version:          0.1.0
+# Build settings
+kramdown:
+  input: GFM
+permalink: none
 
-github:
-  repo:           https://github.com/phocks/phocks.github.io
+# Third-party services
+# just leave empty to disable it
+google_analytics:
+disqus_shortname: 
 
-gems:             ['jekyll-paginate']
+plugins:
+  - jekyll-sitemap
+
+exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
