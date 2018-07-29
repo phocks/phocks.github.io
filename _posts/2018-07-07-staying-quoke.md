@@ -4,6 +4,7 @@ layout: post
 title: Staying Quoke
 tags: tech blog
 ---
+
 Almost a year ago I registered a domain name, mostly because it was on special for $3.29. I've been wanting to build another quotes website for a long time now ever since my old website got domain-jacked and I decided to just let it stagnate.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">i registered a domain for <br>$3.29<br>watch this<br>space <a href="https://t.co/ueClvoOQF6">https://t.co/ueClvoOQF6</a></p>&mdash; Hillary was right (@phocks) <a href="https://twitter.com/phocks/status/889042868974764032?ref_src=twsrc%5Etfw">July 23, 2017</a></blockquote>

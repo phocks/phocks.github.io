@@ -4,6 +4,7 @@ layout: post
 title: Easy as Sonic Pi
 tags: media dev
 ---
+
 I was wowed by this tool called [Sonic Pi](https://sonic-pi.net/) a little while ago. It's [open source](https://github.com/samaaron/sonic-pi). It lets you write music in what looks like [Ruby](https://www.ruby-lang.org/en/) code. But I haven't had a chance to properly play around with it or learn how to actually make any proper music with it... until now!
 
 I just went through a few of [the tutorials](https://sonic-pi.net/tutorial.html) and everything seems to make sense.

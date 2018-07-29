@@ -4,6 +4,7 @@ layout: post
 title: Charts of the future
 tags: media blog
 ---
+
 A few weeks ago at work we started doing a thing called [Chart of the Day](http://www.abc.net.au/news/story-streams/chart-of-the-day/) where we make a chart and publish it each day. It has been challenging but fun and a chance to learn more about data-journalism.
 
 I wanted to share some of my attempts anyway:
