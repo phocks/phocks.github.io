@@ -1,6 +1,7 @@
 ---
 title: Let’s not overreact learning React
 layout: post
+tags: dev
 ---
 
 ![](/public/img/react-mountain2.jpeg)

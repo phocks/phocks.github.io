@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anti-Social Behaviour
-tags: social web internet
+tags: blog
 ---
 
 On the 1st of December 2014 I decided it was time to have a break from social media. Way back in 2007 I happened to [stumble upon](http://phocks.stumbleupon.com/) a little website called Twitter. 

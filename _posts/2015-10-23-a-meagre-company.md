@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Meagre Company
-tags: newyear web internet startups
+tags: blog tech
 ---
 
 ![We cannot live only for ourselves.](/public/img/melville.png)

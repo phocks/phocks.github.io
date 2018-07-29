@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to host your Twitter archive for free
-tags: twitter archive post web
+tags: media tech
 published: true
 ---
 

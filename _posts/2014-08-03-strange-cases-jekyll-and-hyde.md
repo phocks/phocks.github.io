@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Strange Cases&#58; Jekyll & Hyde
+tags: dev
 ---
 
 > “It is one thing to mortify curiosity, another to conquer it.”  

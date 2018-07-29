@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learning PDO Data Objects & Other Recursive Acronyms
+tags: dev
 ---
 
 I had avoided it so well and for so long, but a little while ago I decided it was about time I started properly learning about database programming, if I was going to do anything really serious on the web in times like these. PHP is usually my default language of choice first up *(which stands for PHP Hypertext Preprocessor)*. I started a tutorial with the old `mysql_connect()` commands, but then apparently that was depreciated and so I tried `mysqli_connect()` for a little while before deciding what the hell I might as well go the whole hog and learn the object oriented PDO *(which stands for PDO Data Objects funnily enough)*.

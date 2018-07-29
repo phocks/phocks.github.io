@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blessed Are The GifMakers
+tags: media
 ---
 
 _\*browsing tumblr like OMG that picture is moving\*_

@@ -1,6 +1,7 @@
 ---
 title: OK fine I’ll learn React
 layout: post
+tags: dev blog
 ---
 
 ![](/public/img/react-mountain.png)

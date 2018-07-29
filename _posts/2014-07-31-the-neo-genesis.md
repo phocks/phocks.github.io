@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Neo Genesis
+tags: blog
 ---
 
 > “Toto, I have a feeling we're not in Kansas anymore.”  

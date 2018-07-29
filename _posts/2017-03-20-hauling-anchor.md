@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-tags: audio podcast music
+tags: media blog
 title: Hauling Anchor
 ---
 Taking another look at [Anchor](https://anchor.fm) the internet audio podcast app thing whatever it is.

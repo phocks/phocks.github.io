@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello Again
-tags: blog hello comeback
+tags: blog
 published: true
 ---
 

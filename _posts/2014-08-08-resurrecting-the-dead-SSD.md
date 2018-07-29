@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Resurrecting The Dead SSD
+tags: tech
 ---
 
 I had my solid state drive for only a few months before it decided to die on me. Notoriously unreliable these things were, as I found, and I lost my entire Windows installation. And in my drawer my <abbr title="Solid State Drive">SSD</abbr> stayed, like a m3ssiah in his tomb or whatever.

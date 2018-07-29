@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: Something I wrote on Medium dot com
+tags: blog
 ---
 Perhaps another attempt at updating this blog. It's been over a year since I started working full-time as a developer and the time seems to slip away sometimes.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Heavy Lifting
+tags: blog
 ---
 
 > I never give you my pillow  

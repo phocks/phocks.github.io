@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Website Swagger
-tags: websites portfolio swagger
+tags: media blog
 published: true
 ---
 

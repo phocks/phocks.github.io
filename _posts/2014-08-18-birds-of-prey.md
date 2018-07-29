@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Birds of Prey
-tags: music writing band
+tags: media blog
 ---
 
 ![Velociraptors on a couch](/public/img/velo.jpg)

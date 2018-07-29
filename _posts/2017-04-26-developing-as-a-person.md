@@ -1,6 +1,7 @@
 ---
 title: Developing (as a person)
 layout: post
+tags: dev blog
 ---
 
 Maybe I should start writing this more like a proper personal journal. If I just write for myself and disregard the opinions of others then I'm sure to increase my output and flow. It's not like anyone is actually reading this anyway.

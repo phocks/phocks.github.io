@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Serving Blocks
+tags: media
 ---
 
 Many years ago, at [@kattyzee](https://twitter.com/kattyzee)'s housewarming party in Melbourne, I met this random guy and on the balcony somehow we got talking about Minecraft, the game about [breaking and placing blocks](https://minecraft.net/), and fighting zombies in the night, or something like that. Anyway he ended up giving me his user details so I could give it a go. I tried, I really did, but I could never really get into it at all.
