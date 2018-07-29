@@ -18,4 +18,4 @@ Oh yeah and my tweet archive is [here](https://phocks.github.io/tweets/).
 
 That's about it. Thanks for reading.
 
-![Josh](/public/img/josh-messiah.jpg)
+<!-- ![Josh](/public/img/josh-messiah.jpg) -->
