@@ -58,7 +58,7 @@ You probably already kinda know React. There’s nothing magical about React. It
 
 React is all about components. You build your base App component and then you slot in all your other components into it like this:
 
-```
+```jsx
 function App() {
   return (
     <div>

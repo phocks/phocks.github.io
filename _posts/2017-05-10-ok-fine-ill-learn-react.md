@@ -35,7 +35,30 @@ until later. It’s possible to build a simple React web app/website using a
 single HTML file. So here we go. Just copy and paste the following into a file
 called  or whatever and open it in your web browser:
 
-<script src="https://gist.github.com/phocks/263f2730720a6ddd474b4da4410088bf.js"></script>
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hello World</title>
+    <script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+
+      ReactDOM.render(
+        <h1>Hello, world!</h1>,
+        document.getElementById('root')
+      );
+
+    </script>
+  </body>
+</html>
+```
 
 OK so what’s going on here?
 

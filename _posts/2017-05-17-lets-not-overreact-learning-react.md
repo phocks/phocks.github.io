@@ -24,10 +24,33 @@ things nice and slow, like really slow.
 
 Remember our Hello World app from last time?
 
-<script src="https://gist.github.com/phocks/263f2730720a6ddd474b4da4410088bf.js"></script>
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hello World</title>
+    <script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+
+      ReactDOM.render(
+        <h1>Hello, world!</h1>,
+        document.getElementById('root')
+      );
+
+    </script>
+  </body>
+</html>
+```
 
 Basically when you open this file it loads React in your web browser and then
-renders `<h1>Hello, world!</h1>` in between the  div so it displays Hello, world! on the page.
+renders `<h1>Hello, world!</h1>` in between the div so it displays Hello, world! on the page.
 
 Previously I called the `<h1>Hello, world!</h1>` bit of code a React “component” but it is actually a
 React “element”. Whatever.
@@ -42,9 +65,11 @@ because they’re heaps easier.
 
 This is the simplest React component you can get:
 
-    function Hello(props) {
-      return <h1>Hello, world!</h1>
-    }
+```jsx
+function Hello(props) {
+  return <h1>Hello, world!</h1>
+}
+```
 
 It’s a function named “Hello”. React functions need to start with a capital
 letter or they won’t work. It accepts some properties or  as they like to call
@@ -58,9 +83,38 @@ fit the bill.
 
 Here’s the new code anyway:
 
-<script src="https://gist.github.com/phocks/68781ef10580971aa4ab1f282be217f7.js"></script>
-
-<small>Unfortunately Gist doesn’t highlight text/babel code just yet :( 2017/08/10 update: it looks like they do now!</small>
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Random</title>
+    <script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+    <style> 
+      html {
+        text-align: center;
+        font-size: 420px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="text/babel">
+      function Random(props) {
+        var maxNumber = 45;
+        var randomNumber = Math.floor((Math.random() * maxNumber) + 1);
+        return <div>{randomNumber}</div>;
+      }
+      ReactDOM.render(
+        <Random />,
+        document.getElementById('root')
+      );
+    </script>
+  </body>
+</html>
+```
 
 Save this file or copy and paste the code into a HTML file and open it up in
 your web browser and you should get a big giant random number between 1 and 45
