@@ -19,7 +19,7 @@ I'm not sure how it came to be this way. Another embarrassment that I have to ad
 
 I see now that this is not the case. For free speech to be preserved a platform must enforce a policy against hatred.
 
-Twitter has increasingly shown that it is unwilling to do this. I guess there's some catching up to do.
+Twitter has increasingly shown that it is unwilling to do this.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">INT. TWITTER. DAY.<br><br>ALEX JONES screams that school shootings are fake as the victims’ parents look on in horror.<br><br>Cut to: JACK glancing through his rule book.<br><br>JACK<br>Hmm. Not much I can do about this.<br><br>MOTHER<br>(crying)<br>Alex Jones is a cunt!<br><br>JACK<br>(aghast)<br>WHOA! YOU’RE BANNED, LADY!</p>&mdash; Chris McPhail (@ChrisMcPhaiI) <a href="https://twitter.com/ChrisMcPhaiI/status/1027093143974555648?ref_src=twsrc%5Etfw">August 8, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -27,6 +27,6 @@ Twitter has increasingly shown that it is unwilling to do this. I guess there's 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">i think i need to chill with the negativity of this dumpster fire of a website for a little while and reabsorb something positive. peace out friends for now 👋</p>&mdash; Josh 🕊 (@phocks) <a href="https://twitter.com/phocks/status/1027125289707438080?ref_src=twsrc%5Etfw">August 8, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-For now Twitter is protecting hatred and abuse and is working actively against its own ordinary users.
+I guess there's some catching up to do. For now Twitter is protecting hatred and abuse and is working actively against its own ordinary users.
 
 Goodbye, for now little bluebird.
