@@ -6,7 +6,7 @@ tags: blog
 ---
 It's a little embarassing... but I've been on [twitter dot com](https://twitter.com/phocks) for over 11 years now.
 
-I saw and retweeted this the other day and you know what? Maybe those onions are right. I's high time for a break. I've taken breaks before. Once for close to a whole month. I'm not sure how long this one will go for.
+I saw and retweeted this the other day and you know what? Maybe those onions are right. It's high time for a break. I've taken breaks before. Once for close to a whole month. I'm not sure how long this one will go for.
 
 I wonder how many books I'll read.
 
