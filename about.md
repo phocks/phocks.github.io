@@ -12,12 +12,10 @@ You can find me most active on [YouTube](https://www.youtube.com/channel/UCdFaHY
 
 Or a plain old email would be great at [phocks@gmail.com](mailto:phocks@gmail.com)
 
-[//]: # ![A picture of me.](public/img/josh-messiah.jpg)
+# ![A picture of me.](public/img/josh-messiah.jpg)
 
 This blog is built on [Jekyll](http://jekyllrb.com/) using the [Textlog](https://github.com/heiswayi/textlog) theme, and hosted on [GitHub Pages](https://pages.github.com/).
 
 Oh yeah and my tweet archive is [here](https://phocks.github.io/tweets/).
 
 That's about it for now. Thanks for reading.
-
-<!-- ![Josh](/public/img/josh-messiah.jpg) -->
