@@ -6,9 +6,9 @@ published: true
 
 Hello! I am a software developer who lives in Brisbane, Australia and builds things on the internet and resurrects dead computer systems, and plays music ocassionally.
 
-I'm interested in technology, the environment, and animal rights.
+I'm interested in technology, the environment, and animal rights, etc.
 
-You can find me most active on [Twitter](https://twitter.com/phocks), [Snapchat](https://www.snapchat.com/add/phocksx), [Tumblr](http://phocks.tumblr.com), [GitHub](https://github.com/phocks), [Instagram](http://instagram.com/phocks), [Facebook](https://facebook.com/phocks), etc.
+You can find me most active on [YouTube](https://www.youtube.com/channel/UCdFaHY7gBbp9m9xGF0mwqFg), [Twitter](https://twitter.com/phocks), [Snapchat](https://www.snapchat.com/add/phocksx), [Tumblr](http://phocks.tumblr.com), [GitHub](https://github.com/phocks), [Instagram](http://instagram.com/phocks), [Facebook](https://facebook.com/phocks), etc.
 
 Or a plain old email would be great at [phocks@gmail.com](mailto:phocks@gmail.com)
 
