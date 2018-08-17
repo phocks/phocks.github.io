@@ -30,3 +30,7 @@ Twitter has increasingly shown that it is unwilling to do this.
 I guess there's some catching up to do. For now Twitter is protecting hatred and abuse and is working actively against its own ordinary users.
 
 Goodbye, for now little bluebird.
+
+---
+
+*Update (18-Aug-2018): Twitter has [suspended Alex Jones for 7 days](https://www.vox.com/culture/2018/8/15/17692428/twitter-suspends-alex-jones-infowars). Let's see where this goes.*
