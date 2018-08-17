@@ -14,6 +14,8 @@ So I've uploaded the album to YouTube for everyone. Enjoy!
 
 On this record is me, Jeremy Sega Dreamboat Neale, Lauren Jenkins, Michael Fletcher, James Boyd, Neal Apel, and Jo-Jo P James.
 
-Ahhhhh the memories! (Also subscribe to [my YouTube channel](https://www.youtube.com/c/JoshuaByrd)!!!)...
+Ahhhhh the memories!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hJpDGAeRN5M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Remember to subscribe to [my YouTube channel](https://www.youtube.com/c/JoshuaByrd) :)
