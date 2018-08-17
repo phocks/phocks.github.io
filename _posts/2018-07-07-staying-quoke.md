@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Staying Quoke
-tags: tech blog
+tags: tech
 ---
 
 Almost a year ago I registered a domain name, mostly because it was on special for $3.29. I've been wanting to build another quotes website for a long time now ever since my old website got domain-jacked and I decided to just let it stagnate.
