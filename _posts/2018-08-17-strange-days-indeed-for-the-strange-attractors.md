@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Strange days indeed (most peculiar mama)
+title: Strange days indeed for The Strange Attractors
 tags: media
 ---
 The other day my mate James asked me why it was (strangely) impossible to find my old band The Strange Attractors anywhere on the Internet. Especially for someone as extremely online&trade; as I was.
