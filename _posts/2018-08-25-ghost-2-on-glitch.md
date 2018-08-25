@@ -36,8 +36,8 @@ But there is a way to set up a Ghost blog on Glitch. Here's how you do it:
 }
 ```
 
-* Replace `ghost2` part in `url` with the subdomain of your Glitch project (it will be something like `lime-hen` and you can change it)
-* Now we need to make a `content` folder. The easist way to do this is to click "New File" type `content/temp.txt` and press enter
+* Replace the `ghost2` part in `url` with the subdomain of your Glitch project (it will be something like `lime-hen` and you can change it)
+* Now we need to make a `content` folder. The easist way to do this is to click **New File** and type `content/temp.txt` then press enter
 * Finally, we need to replace the contents of `server.js` with the following:
 
 ```javascript
@@ -53,7 +53,7 @@ And that's it! You should have a working Ghost blog. If you click on **Show** up
 
 You can delete all the extra files in `public/` etc too.
 
-Don't forget to go to `<your-blog>.glitch.me/ghost` and set up an admin password etc and write your first post.
+Also, don't forget to go to `<your-blog>.glitch.me/ghost` and set up an admin password etc and write your first post.
 
 Have fun Ghosting!
 
