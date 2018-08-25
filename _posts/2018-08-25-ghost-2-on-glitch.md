@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: How to host a Ghost 2.0 blog for free on Glitch
-tags: media
+tags: dev
 ---
 [Ghost 2.0](https://blog.ghost.org/2-0/) is here!
 
