@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Pushing your charting library to its limit (literally)
 tags: media
