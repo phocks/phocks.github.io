@@ -59,7 +59,7 @@ Aaaand as much as I loooove Billie Eilish—first vegan to top _Triple J’s Hot
   
 It’s pure genius.
 
-<img src="/public/img/norman-fucking-rockwell.jpg" width="450" />
+<a href="https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"><img src="/public/img/norman-fucking-rockwell.jpg" width="450" /></a>
 
 >Joe met me down at the training yard  
 Cuts on his face ’cause he fought too hard  
