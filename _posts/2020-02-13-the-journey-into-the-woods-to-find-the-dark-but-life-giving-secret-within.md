@@ -7,8 +7,6 @@ tags: blog newsletter
 
 Originally posted via [TinyLetter](http://tinyletter.com/phocks)
 
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/phocks" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/phocks', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
-
 ---
 
 > Nostalgia—[it’s delicate, but potent](https://vimeo.com/20736616). In Greek nostalgia literally means “the pain from an old wound.” It’s a twinge in your heart far more powerful than memory alone. It takes us to a place where we ache to go again. It let’s us travel the way a child travels—around and around, and back home again, to a place where we know we are loved.
