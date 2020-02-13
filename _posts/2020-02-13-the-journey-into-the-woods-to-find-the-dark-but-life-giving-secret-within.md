@@ -55,7 +55,7 @@ But it was [_Jojo Rabbit_](https://amzn.to/2Szhu7M) that really did it for me. B
 
 If you’re looking for a new podcast to listen to check out [_The Missing Cryptoqueen_](https://open.spotify.com/show/5nk7d9MLCgE3M47mXPW7MP) about the founder of a cryptocurrency called OneCoin (a bit like Bitcoin) who suddenly and mysteriously disappears without a trace. That’s all I'm gonna say.  
   
-Aaaand as much as I loooove Billie Eilish—first vegan to top _Triple J’s Hottest 100_—we all know **Lana Del Rey** had the best album of 2019 (if not the decade) and deserved that Grammy. If you haven’t listened to [_Norman Fucking Rockwell_](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) yet then get on that here.  
+Aaaand as much as I loooove Billie Eilish—first vegan to top _Triple J’s Hottest 100_—we all know **Lana Del Rey** had the best album of 2019 (if not the decade) and deserved that Grammy. If you haven’t listened to [_Norman Fucking Rockwell!_](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) yet then get on that here.  
   
 It’s pure genius.
 
