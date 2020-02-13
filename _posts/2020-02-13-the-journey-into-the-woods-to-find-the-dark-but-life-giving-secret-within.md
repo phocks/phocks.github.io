@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: The journey into the woods to find the dark but life-giving secret within 
+title: 1 / The journey into the woods to find the dark but life-giving secret within 
 tags: blog newsletter
 ---
 
