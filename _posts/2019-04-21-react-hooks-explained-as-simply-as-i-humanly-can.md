@@ -1,3 +1,7 @@
+---
+tags: dev
+---
+
 Hooks let you do more things with function components.
 
 ---
