@@ -11,6 +11,8 @@ Originally posted via [TinyLetter](http://tinyletter.com/phocks)
 
 > Nostalgia—[it’s delicate, but potent](https://vimeo.com/20736616). In Greek nostalgia literally means “the pain from an old wound.” It’s a twinge in your heart far more powerful than memory alone. It takes us to a place where we ache to go again. It let’s us travel the way a child travels—around and around, and back home again, to a place where we know we are loved.
 
+<center><a href="https://open.spotify.com/playlist/5nm0oigdKoPbe51rZNSkaK"><img src="/public/img/synthwave-sun.png" width="250" /></a></center>
+
 ## Welcome
 
 Inspired by [Colin](https://colin-gourlay.com/ibam/) and [Simon](https://tinyletter.com/everysecondthursday) from work I’m starting my own semi-regular _electronic_ newsletter. Tap the synthwave sun above for some nostalgic background music while reading this. And if you **are** reading this congratulations and welcome to the family.
