@@ -74,6 +74,15 @@
     box-sizing: border-box;
     max-width: $max-width;
 }
+
+@include media-query($on-palm) {
+  .page-content {
+    
+    padding: $spacing-unit ($spacing-unit * 0);
+    
+}
+}
+
 /**
  * Pages
  */
