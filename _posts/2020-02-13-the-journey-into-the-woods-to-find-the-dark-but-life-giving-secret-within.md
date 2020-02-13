@@ -37,7 +37,7 @@ Reading [is good](https://www.goodreads.com/user/show/2600381-joshua-byrd). Some
 
 <img src="/public/img/swamp-thing.jpg" width="450" />
 
-In my ear on rides to and from work has been Russell Brand with _[Revolution](https://amzn.to/2H3QMPl)_ on Audible_._ I quite enjoyed it. Very funny and insightful. More than the pipe dream many people might dismiss it as. But you may say I’m a dreamer.  
+In my ear on rides to and from work has been Russell Brand with _[Revolution](https://amzn.to/2H3QMPl)_ on Audible. I quite enjoyed it. Very funny and insightful. More than the pipe dream many people might dismiss it as. But you may say I’m a dreamer.  
   
 I also finally finished re-reading [_The Cider House Rules_](https://www.goodreads.com/work/quotes/3875895-the-cider-house-rules). Fantastic. Full-on. Very long. An important book that everyone should read, even (and especially) if you don’t want to.
 
