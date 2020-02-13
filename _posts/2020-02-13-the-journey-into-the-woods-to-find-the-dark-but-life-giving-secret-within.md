@@ -5,7 +5,7 @@ title: The journey into the woods to find the dark but life-giving secret within
 tags: blog newsletter
 ---
 
-Originally posted via [TinyLetter](http://tinyletter.com/phocks)
+<small>*Originally posted via [TinyLetter](http://tinyletter.com/phocks)*</small>
 
 ---
 
@@ -35,6 +35,8 @@ Lately life’s been mostly work and looking after a small child. Here’s a bri
 
 Reading [is good](https://www.goodreads.com/user/show/2600381-joshua-byrd). Some days I hop across the bridge at lunch to the _Brisbane Square Library._ Mostly I raid their graphic novel collections. I’ve been getting into _[Swamp Thing](https://amzn.to/3blGrvW)_ lately. He’s a lot like me.
 
+<img src="/public/img/swamp-thing.jpg" width="450" />
+
 In my ear on rides to and from work has been Russell Brand with _[Revolution](https://amzn.to/2H3QMPl)_ on Audible_._ I quite enjoyed it. Very funny and insightful. More than the pipe dream many people might dismiss it as. But you may say I’m a dreamer.  
   
 I also finally finished re-reading [_The Cider House Rules_](https://www.goodreads.com/work/quotes/3875895-the-cider-house-rules). Fantastic. Full-on. Very long. An important book that everyone should read, even (and especially) if you don’t want to.
@@ -56,6 +58,8 @@ If you’re looking for a new podcast to listen to check out [_The Missing Crypt
 Aaaand as much as I loooove Billie Eilish—first vegan to top _Triple J’s Hottest 100_—we all know **Lana Del Rey** had the best album of 2019 (if not the decade) and deserved that Grammy. If you haven’t listened to [_Norman Fucking Rockwell_](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) yet then get on that here.  
   
 It’s pure genius.
+
+<img src="/public/img/norman-fucking-rockwell.jpg" width="450" />
 
 >Joe met me down at the training yard  
 Cuts on his face ’cause he fought too hard  
