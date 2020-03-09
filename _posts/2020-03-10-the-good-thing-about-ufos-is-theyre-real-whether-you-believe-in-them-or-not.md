@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: 1 / The journey into the woods to find the dark but life-giving secret within 
+title: 2 / The good thing about UFOs is they’re real whether you believe in them or not
 tags: blog newsletter
 ---
 
