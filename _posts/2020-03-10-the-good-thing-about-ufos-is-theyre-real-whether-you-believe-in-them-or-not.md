@@ -25,7 +25,7 @@ If you’re really bored you can [search Twitter](https://twitter.com/search?q=f
 
 Look out the window right now. The moon is full once more in the sky and that means baby Vada is now 18 lunar months old.  
 
-<img src="/public/img/full-moon-for-vada.jpg" width="400" />
+<img src="/public/img/full-moon-for-vada.jpg" width="450" />
 
 Our daughter Vada was born on a  **full moon**  in August. And for her first 12 moons we would religiously  [keep count](https://twitter.com/search?q=from%3Aphocks%20moon%20vada&src=typed_query&f=live)  before finally letting the tradition stray when she was a year old.  
   
@@ -35,13 +35,13 @@ So what on  **Earth**  have we been up to? The Moon has orbited the Earth yet ag
   
 Oh yeah I randomly won a fancy clicky keyboard from a  [Twitch streamer named tashnarr](https://www.twitch.tv/tashnarr)  that is apparently worth over  **300**  bucks. Here it is in all its glory:
 
-![enter image description here](/public/img/tashnarr-keyboard.jpg)
+<img src="/public/img/tashnarr-keyboard.jpg" width="450" />
 
 We also went to Chermside and Vada  [kept sliding down the fake grass](https://twitter.com/phocks/status/1229213368482852864?s=20) hills on her butt and it was pretty hilarious. Parenthood is a blast. 🤣  
   
 Our  **Information is Beautiful** laser-cut award arrived for when we won  [BEST IN THE WORLD](https://about.abc.net.au/press-releases/abc-news-best-in-the-world-at-data-visualisation-and-digital-storytelling/)  at data visualisation and digital storytelling. Isn’t it pretty?  _(photo by  [Ben Spraggon](https://twitter.com/BSpraggon))_
 
-![Information is Beautiful](/public/img/information-is-beautiful-award-abc.jpg)
+<img src="/public/img/information-is-beautiful-award-abc.jpg" width="450" />
 
 We went to the newly renovated New Farm dog park and met a dog  [who looked almost exactly](https://photos.app.goo.gl/tVMu1XiGnCxsYrCN7)  like Misty.  
   
@@ -59,7 +59,7 @@ For Valentine’s Day we dropped Vada at her Grandma’s and took ourselves out 
   
 Afterwards we returned to my childhood to see a screening of  _Return of the Jedi_ at the Brisbane Convention Centre with orchestral backing by the Queensland Symphony Orchestra. It was  [out of this world](https://twitter.com/phocks/status/1228634355704057856?s=20)! 
 
-![ROTJ](/public/img/rotj-poster.jpg)
+<img src="/public/img/rotj-poster.jpg" width="450" />
 
 ## Music to code to
 
@@ -69,7 +69,7 @@ Give it a go (and yeah I know Mel Gibson is cancelled but yeah this music really
   
 Close your eyes and picture the **Scottish Highlands**.
 
-![](/public/img/loch-ness-scotland.png)
+<img src="/public/img/loch-ness-scotland.png" width="450" />
 
 ## God is other people (or planets)
 
@@ -81,7 +81,7 @@ Okay after writing that last sentence I realise it’s virtually impossible to d
   
 Anyway if that sounds like your kind of thing give it a read. If not then don’t 🤷  
 
-![](/public/img/solaris-book-cover.jpg)
+<img src="/public/img/solaris-book-cover.jpg" width="450" />
 
 ## Some links for the road
 
