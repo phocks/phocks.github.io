@@ -11,7 +11,7 @@ tags: blog newsletter
 
 > You can’t get the truth. You can’t. There’s a larger truth, though: that you can’t harness the forces of the cosmos, but you may find somebody else. You may find another human being. That may be kind of corny and all of that, but that’s what it is: **Love is the only truth** we can hope to know, as human beings. [That’s what Mulder and Scully found after nine years](https://m.imdb.com/name/nm0819487/quotes?ref_=m_nm_trv_trv). And that’s a lot.
 
-<center><img src="/public/img/scully-take-no-shit.png" width="200" /></center>
+<center><img src="/public/img/scully-take-no-shit.png" width="250" /></center>
 
 ## Greetings from planet Earth
 
@@ -25,7 +25,7 @@ If you’re really bored you can [search Twitter](https://twitter.com/search?q=f
 
 Look out the window right now. The moon is full once more in the sky and that means baby Vada is now 18 lunar months old.  
 
-![Full moon](/public/img/full-moon-for-vada.jpg)
+<img src="/public/img/full-moon-for-vada.jpg" width="400" />
 
 Our daughter Vada was born on a  **full moon**  in August. And for her first 12 moons we would religiously  [keep count](https://twitter.com/search?q=from%3Aphocks%20moon%20vada&src=typed_query&f=live)  before finally letting the tradition stray when she was a year old.  
   
