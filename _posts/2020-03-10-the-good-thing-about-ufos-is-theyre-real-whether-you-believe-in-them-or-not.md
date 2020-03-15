@@ -11,7 +11,7 @@ tags: blog newsletter
 
 > You can’t get the truth. You can’t. There’s a larger truth, though: that you can’t harness the forces of the cosmos, but you may find somebody else. You may find another human being. That may be kind of corny and all of that, but that’s what it is: **Love is the only truth** we can hope to know, as human beings. [That’s what Mulder and Scully found after nine years](https://m.imdb.com/name/nm0819487/quotes?ref_=m_nm_trv_trv). And that’s a lot.
 
-<center><img src="/public/img/scully-take-no-shit.png" width="250" /></center>
+<center><a href="https://open.spotify.com/playlist/2Wdlo2MrN2Jwgj40lVPN4w"><img src="/public/img/scully-take-no-shit.png" width="250" /></a></center>
 
 ## Greetings from planet Earth
 
