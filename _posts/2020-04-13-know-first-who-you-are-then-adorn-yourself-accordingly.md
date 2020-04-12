@@ -5,7 +5,7 @@ title: 3 / Know first who you are then adorn yourself accordingly
 tags: blog newsletter
 ---
 
-<small>*Originally posted via [TinyLetter](http://tinyletter.com/phocks)*</small>
+<small>_Originally posted via [TinyLetter](http://tinyletter.com/phocks)_</small>
 
 ---
 
@@ -98,7 +98,7 @@ Anyway thanks to <a href="https://letterboxd.com/phocksx/">Letterboxd dot com</a
 <br />
 She is risen once more. It&rsquo;s getting light outside slowly. A repeat of the other morning is playing out. We&rsquo;re walking around the house. I&rsquo;m singing.<br />
 <br />
-And soon enough she&rsquo;s drifted off,&nbsp;like a koala&nbsp;in her carrier. Again I put on&nbsp;<em>The Leftovers</em>&nbsp;through headphones. Episode 5 this time.&nbsp;<em>Gladys</em>. They are stoning a cult member to death. A member of The Guilty Remnant. Intense. Compelling. Maybe I&rsquo;ll go make a cup of tea. It&rsquo;s 5:55 am.<br />
+And soon enough she&rsquo;s drifted off,&nbsp;like a koala&nbsp;in her carrier. Again I put on&nbsp;<em>The Leftovers</em>&nbsp;through headphones. Episode 5 this time.&nbsp;<em>Gladys</em>. They are stoning a cult member to death. A member of <a href="https://fontsinuse.com/uses/8038/the-leftovers-guilty-remnant-posters-and-mess">The Guilty Remnant</a>. Intense. Compelling. Maybe I&rsquo;ll go make a cup of tea. It&rsquo;s 5:55 am.<br />
 <br />
 I don&rsquo;t think I&rsquo;ll&nbsp;be sleeping again until tonight.</p>
 
@@ -118,4 +118,3 @@ I might like to include some of your stories in the next issue, so please hit re
 <center>❧</center>
 
 <p><em>Previous letter: <a href="https://phocks.github.io/the-good-thing-about-ufos-is-theyre-real-whether-you-believe-in-them-or-not.html">2 / The good thing about UFOs is they&rsquo;re real whether you believe in them or not​</a></em></p>
-
