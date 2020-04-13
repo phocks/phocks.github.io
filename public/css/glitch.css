@@ -1,0 +1,105 @@
+* { box-sizing: border-box}
+[hidden] {display: none !important}
+
+html {
+  --foreground: #444;
+  --background: white;
+  --primary: aquamarine; 
+  --secondary: lavender;
+  --spacing-s: 8px;
+  --spacing-m: 24px;
+  --spacing-l: 32px;
+  --spacing-xl: 48px;
+}
+
+body {
+  font-family: 'Roboto Mono', monospace;
+  margin: 2em;
+  background: var(--background);
+  color: var(--foreground);
+  line-height: 1.5;
+  max-width: 900px;
+}
+
+h1 {
+  display: inline-block;  
+  background: var(--primary);
+}
+
+h1, h2, h3, h4 {
+  margin-top: var(--spacing-xl);
+  color: black;
+}
+
+p {
+  margin-top: var(--spacing-l);
+}
+
+ul > li, ol > li {
+  margin-bottom: var(--spacing-s);
+  line-height: 1.5;
+}
+
+ul.no-bullet {
+  list-style-type: none;
+}
+a:not(.glitch-remix):link, a:not(.glitch-remix):visited {
+  text-decoration: none;
+  border-bottom: 6px solid var(--primary);
+  color: var(--foreground);
+  transition: background 0.2s linear;
+}
+
+a:hover {
+  background: var(--primary) !important;
+}
+
+.glitch-remix img {
+  height: 30px;
+  vertical-align: text-bottom;
+}
+
+pre, code {
+  font-size: 15px;
+  padding: 4px;
+  font-family: inherit;
+  background: var(--secondary);
+  color: black;
+}
+
+footer {
+  margin: var(--spacing-xl) 0;
+  padding-top: var(--spacing-l);
+  border-top: 10px solid var(--secondary);
+}
+
+.horizontal {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.avatar {
+  height: 20px;
+  vertical-align: middle;
+}
+
+.button {
+  font-size: inherit;
+  font-family: inherit;
+  border-radius: 3px;
+  border: none;
+  background: var(--secondary);
+  padding: 8px 16px;
+  box-shadow: 6px 7px var(--primary);
+  cursor: pointer;
+  transition: background 0.2s linear; 
+}
+
+.button:hover {
+  background: var(--primary);
+}
+
+.button:active {
+  box-shadow: none;
+}
