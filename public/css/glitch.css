@@ -21,6 +21,10 @@ body {
   max-width: 900px;
 }
 
+hr {
+  border-top: 1px solid var(--primary);
+}
+
 h1 {
   display: inline-block;  
   background: var(--primary);
