@@ -7,9 +7,11 @@ tags: blog newsletter
 
 <small>_Originally posted via [TinyLetter](http://tinyletter.com/phocks)_</small>
 
+---
+
 > “And right now he was feeling the weight of all those losses, and the weight of the years that were behind him, and the weight of the ones that were still ahead, however many there might be — three or four, twenty or thirty, maybe more.” —[Tom Perrotta](https://www.goodreads.com/quotes/1283655-and-right-now-he-was-feeling-the-weight-of-all)
 
-<center>[![The Leftovers](https://gallery.tinyletterapp.com/77f43f6c4b8f17e29e91b7e4f85a36ca597f69a2/images/3f86b334-79d0-44ad-9794-8dc23a18d495.png)](https://open.spotify.com/album/3UQKi6NGLPqo0stOFYOER3)</center>
+[![The Leftovers](https://gallery.tinyletterapp.com/77f43f6c4b8f17e29e91b7e4f85a36ca597f69a2/images/3f86b334-79d0-44ad-9794-8dc23a18d495.png)](https://open.spotify.com/album/3UQKi6NGLPqo0stOFYOER3)
 
 ## Welcome to lockdown
 
