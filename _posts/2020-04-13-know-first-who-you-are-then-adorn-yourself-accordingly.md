@@ -31,7 +31,7 @@ For those unfamiliar, [_The Leftovers_](https://www.salon.com/2015/12/06/how_the
 
 Seems sorta salient in today’s uncertain times.
 
-<center>![](https://gallery.tinyletterapp.com/77f43f6c4b8f17e29e91b7e4f85a36ca597f69a2/images/d4b90850-e4b8-4fd8-879e-5f34e856ae26.jpg)</center>
+![](https://gallery.tinyletterapp.com/77f43f6c4b8f17e29e91b7e4f85a36ca597f69a2/images/d4b90850-e4b8-4fd8-879e-5f34e856ae26.jpg)
 
 ## Social (media) isolation
 
@@ -58,7 +58,7 @@ For those simply skimming this email here’s a list of things we’ve been up t
 7.  Vada and I have been going for [evening walks](https://photos.app.goo.gl/3HsFERpZMDbaBqZ9A) along the Brisbane Riverwalk
 8.  And like everyone else on the planet we bought Animal Crossing and [lockdown life](https://twitter.com/phocks/status/1245839429471580163?s=20) on the island is going well
 
-<center>![](https://gallery.tinyletterapp.com/77f43f6c4b8f17e29e91b7e4f85a36ca597f69a2/images/07a3497b-4719-4f48-8606-ed2f0ce3f148.jpg)</center>
+![](https://gallery.tinyletterapp.com/77f43f6c4b8f17e29e91b7e4f85a36ca597f69a2/images/07a3497b-4719-4f48-8606-ed2f0ce3f148.jpg)
 
 ## The silver screen
 
@@ -80,7 +80,7 @@ Anyway thanks to [Letterboxd dot com](https://letterboxd.com/phocksx/) for helpi
 
 _[Fleabag](https://www.rottentomatoes.com/tv/fleabag/s01)_. That’s it. Watch it. It’s genius.
 
-<center>![](https://gallery.tinyletterapp.com/77f43f6c4b8f17e29e91b7e4f85a36ca597f69a2/images/b5c10cf6-ea39-4fda-9502-1b2dd39de2c6.jpg)</center>
+![](https://gallery.tinyletterapp.com/77f43f6c4b8f17e29e91b7e4f85a36ca597f69a2/images/b5c10cf6-ea39-4fda-9502-1b2dd39de2c6.jpg)
 
 ## She is risen
 
