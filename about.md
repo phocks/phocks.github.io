@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-published: true
+title: /about
+permalink: /about/
 ---
 
 Hello! I am a software developer who lives in Brisbane, Australia and builds things on the internet and resurrects dead computer systems, and plays music ocassionally.
@@ -12,6 +12,6 @@ You can find me most active on [YouTube](https://www.youtube.com/channel/UCdFaHY
 
 Or a plain old email would be great at [phocks@gmail.com](mailto:phocks@gmail.com)
 
-This blog is built on [Jekyll](http://jekyllrb.com/) using the [Textlog](https://github.com/heiswayi/textlog) theme, and hosted on [GitHub Pages](https://pages.github.com/).
+This blog is built on [Jekyll](http://jekyllrb.com/) using the [Console](https://github.com/b2a3e8/jekyll-theme-console) theme, and hosted on [GitHub Pages](https://pages.github.com/).
 
 That's about it for now. Thanks for reading.
