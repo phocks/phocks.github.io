@@ -1,5 +1,7 @@
 ---
+layout: post
 tags: dev
+title: React hooks explained as simply as I humanly possibly can
 ---
 
 Hooks let you do more things with function components.
