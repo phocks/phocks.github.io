@@ -20,6 +20,7 @@
 
 title: phocks
 email: phocks@gmail.com
+tagline: a dev blog
 description: >- # this means to ignore newlines until "baseurl:"
   Some kind of dev blog or something?
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: phocks
 github_username:  phocks
 
-paginate: 1
+paginate: 5
 
 # Build settings
 theme: minima
@@ -62,3 +63,5 @@ permalink: none
 sass:
   sass_dir: _sass
   style: :compressed
+
+version: 1.0.0
