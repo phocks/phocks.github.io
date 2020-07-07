@@ -27,11 +27,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: phocks
 github_username:  phocks
 
+paginate: 1
+
 # Build settings
 theme: minima
 
 plugins:
   - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 permalink: none
 # Exclude from processing.
@@ -53,3 +58,7 @@ permalink: none
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+sass:
+  sass_dir: _sass
+  style: :compressed
