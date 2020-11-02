@@ -20,4 +20,4 @@ And that's about it for now. Enjoy your free server forever!
 
 ---
 
-*ps. I may update this page with more detailed instructions later if people want me to. Also NOTE: Even though you can run this server for free,* ***Google may charge if you go over certain* **[***"free tier" limits***](https://cloud.google.com/free)** *etc*** *so just keep a lookout for that in the terms and conditions...*
+*ps. I may update this page with more detailed instructions later if people want me to. Also NOTE: Even though you can run this server for free, Google may charge if you go over certain ["free tier" limits](https://cloud.google.com/free) etc so just keep a lookout for that in the terms and conditions...*
