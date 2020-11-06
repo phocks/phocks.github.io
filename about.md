@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hello! I am a software developer who lives in Brisbane, Australia and builds things on the internet and resurrects dead computer systems, and plays music ocassionally.
+Hey. I am a software developer who lives in Brisbane, Australia and builds things on the internet and resurrects dead computer systems, and plays music ocassionally.
 
-I'm interested in technology, the environment, and animal rights, etc.
+I'm interested in tech, the environment, and animal rights, etc.
 
 You can find me most active on [Twitter](https://twitter.com/phocks), [YouTube](https://www.youtube.com/channel/UCdFaHY7gBbp9m9xGF0mwqFg), [Snapchat](https://www.snapchat.com/add/phocksx), [Tumblr](http://phocks.tumblr.com), [GitHub](https://github.com/phocks), [Instagram](http://instagram.com/phocks), [Facebook](https://facebook.com/phocks), etc.
 
