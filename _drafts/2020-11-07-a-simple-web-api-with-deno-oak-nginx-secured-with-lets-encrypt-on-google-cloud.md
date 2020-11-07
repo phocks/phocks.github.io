@@ -5,8 +5,6 @@ tags: blog tech
 summary: A step by step guide.
 ---
 
-# A simple web API with Deno, Oak, NGINX secured with Let's Encrypt on Google Cloud 
-
 I'm writing this primarily for my own reference — so I don't forget how to do this for next time, but if you find it useful then that's cool too. Here's what we'll do. We're gonna set up an API that when you access it, it sends back the following JSON message:
 
 ```json
