@@ -31,7 +31,7 @@ github_username:  phocks
 paginate: 5
 
 # Build settings
-theme: poole
+theme: minima
 
 plugins:
   - jekyll-feed
