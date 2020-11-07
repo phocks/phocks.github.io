@@ -5,9 +5,38 @@ tags: blog tech
 summary: A step by step guide.
 ---
 
-I'm writing this primarily for my own reference — so I don't forget how to do this for next time, but if you find it useful then that's cool. We're gonna set up an API with a free domain name and fully secured over HTTPS. Here we go!
+# A simple web API with Deno, Oak, NGINX secured with Let's Encrypt on Google Cloud 
 
-I'll be running all this on my Google Cloud Compute instance. You can learn how to set one up for free using [this handy tutorial](/a-free-google-server-forever.html) that I wrote last time.
+I'm writing this primarily for my own reference — so I don't forget how to do this for next time, but if you find it useful then that's cool too. Here's what we'll do. We're gonna set up an API that when you access it, it sends back the following JSON message:
 
+```json
 
-> Written with [StackEdit](https://stackedit.io/).
+{"message":"Hello World!"}
+
+```
+Simple right?
+
+I'll be running all this on my Google Cloud Compute instance. You can learn how to set one up for free using [this handy tutorial](https://phocks.github.io/a-free-google-server-forever.html) that I wrote last time.
+
+But we'll get to that part later.
+
+First up let's do an <abbr  title="Minimum Viable Product">MVP</abbr>. We'll be running our web server on Deno — or you can use Node.js if you wanna — so make sure [it's installed](https://deno.land).
+
+Make a `server.ts` in a new project folder with the following:
+
+```typescript
+import { Application } from  "https://deno.land/x/oak/mod.ts";
+
+const  app = new  Application();
+
+app.use((ctx) => {
+  ctx.response.body = { message:  "Hello World!" };
+});
+
+console.log("Listening on http://localhost:12345");
+
+await  app.listen({ port:  12345 });
+```
+
+And then run `deno run --allow-net server.ts`
+
