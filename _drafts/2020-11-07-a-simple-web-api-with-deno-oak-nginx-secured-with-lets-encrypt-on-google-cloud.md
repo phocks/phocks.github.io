@@ -12,15 +12,15 @@ I'm writing this primarily for my own reference — so I don't forget how to do 
 {"message":"Hello World!"}
 
 ```
-Simple right?
+Simple right? OK!
 
-I'll be running all this on my Google Cloud Compute instance. You can learn how to set one up for free using [this handy tutorial](https://phocks.github.io/a-free-google-server-forever.html) that I wrote last time.
+> Note: I'll be running all this on my Google Cloud Compute instance. You can learn how to set one up for free using [this handy tutorial](https://phocks.github.io/a-free-google-server-forever.html) that I wrote last time.
 
 But we'll get to that part later.
 
-First up let's do an <abbr  title="Minimum Viable Product">MVP</abbr>. We'll be running our web server on Deno — or you can use Node.js if you wanna — so make sure [it's installed](https://deno.land).
+First up let's do an <abbr  title="Minimum Viable Product">MVP</abbr>. We'll be running our web server on Deno so make sure [it's installed](https://deno.land) — or you can use Node.js/Express if you're familiar with that. Basically we just want a http server listening on a TCP port.
 
-Make a `server.ts` in a new project folder with the following:
+Make `server.ts` in a new project folder and chuck in:
 
 ```typescript
 import { Application } from  "https://deno.land/x/oak/mod.ts";
