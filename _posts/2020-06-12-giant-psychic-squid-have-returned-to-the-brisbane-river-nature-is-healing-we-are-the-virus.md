@@ -3,6 +3,7 @@ published: true
 layout: post
 title: 4 / Giant psychic squid have returned to the Brisbane River — nature is healing — we are the virus
 tags: blog newsletter
+summary: “In this world, shipmates, sin that pays its way can travel freely and without a passport; whereas Virtue, if a pauper, is stopped at all frontiers.” ―Herman Melville, Moby-Dick or, the Whale
 ---
 
 > *"In this world, shipmates, sin that pays its way can travel freely and without a passport; whereas Virtue, if a pauper, is stopped at all frontiers." --[Herman Melville, ](https://www.amazon.com/WHALE-COLLECTORS-INTRODUCTION-CLIFTON-FADIMAN/dp/0840769008/ref=as_li_ss_tl?dchild=1&keywords=Herman+Melville,+Moby-Dick+or,+the+Whale&qid=1590894822&sr=8-2&linkCode=ll1&tag=phocks-20&linkId=da1d276eaa7de9eb4b4cd1e5621fd9d5)*[Moby-Dick or, the Whale](https://www.amazon.com/WHALE-COLLECTORS-INTRODUCTION-CLIFTON-FADIMAN/dp/0840769008/ref=as_li_ss_tl?dchild=1&keywords=Herman+Melville,+Moby-Dick+or,+the+Whale&qid=1590894822&sr=8-2&linkCode=ll1&tag=phocks-20&linkId=da1d276eaa7de9eb4b4cd1e5621fd9d5)
