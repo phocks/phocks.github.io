@@ -17,7 +17,7 @@ Simple right? OK!
 
 But we'll get to that part later.
 
-First up let's do an <abbr  title="Minimum Viable Product">MVP</abbr>. We'll be running our web server on Deno so make sure [it's installed](https://deno.land) — or you can use Node.js/Express if you're familiar with that. Basically we just want a http server listening on a TCP port.
+First up let's do an <abbr  title="Minimum Viable Product">MVP</abbr>. We'll be running our web server on Deno so make sure [it's installed](https://deno.land) — or you can use Node.js/Express if you're familiar with that. Basically we just want a http server listening on a <abbr title="Transmission Control Protocol">TCP</abbr> port.
 
 Make `server.ts` in a new project folder and chuck in:
 
@@ -31,8 +31,11 @@ app.use((ctx) => {
 });
 
 console.log("Listening on http://localhost:12345");
-
 await app.listen({ port: 12345 });
 ```
 
 And then run `deno run --allow-net server.ts`
+
+---
+
+> ...to be continued (check back later and maybe I'll have written more)

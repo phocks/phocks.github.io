@@ -15,3 +15,5 @@ Or a plain old email would be great at [phocks@gmail.com](mailto:phocks@gmail.co
 This blog is built on [Jekyll](http://jekyllrb.com/), using [the Poole theme](https://github.com/poole/poole), and hosted on [GitHub Pages](https://pages.github.com/).
 
 That's about it for now. Thanks for reading.
+
+Please consider <a href="https://github.com/sponsors/phocks">sponsoring me</a> on GitHub 🙏

@@ -20,7 +20,7 @@
 
 title: phocks
 email: phocks@gmail.com
-tagline: a dev blog
+tagline: a simple blog
 description: >- # this means to ignore newlines until "baseurl:"
   Hello and welcome to my blog
 baseurl: "" # the subpath of your site, e.g. /blog

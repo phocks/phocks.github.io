@@ -22,6 +22,8 @@ Finish the server config (make sure you add the max 30GB free disk space) and sp
 
 And that's about it for now. Enjoy your free server forever!
 
+> If this post helped you please consider <a href="https://github.com/sponsors/phocks">sponsoring me</a> on GitHub.
+
 ---
 
 *ps. I may update this page with more detailed instructions later if people want me to. Also NOTE: Even though you can run this server for free, Google may charge if you go over certain ["free tier" limits](https://cloud.google.com/free) etc so just keep a lookout for that in the terms and conditions...*
