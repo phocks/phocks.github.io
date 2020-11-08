@@ -13,7 +13,7 @@ I first heard you could get a free Virtual Private Server instance on the Google
 So here's how to do it.
 
 1.  Go to the [Google Cloud Platform Console](https://console.cloud.google.com) and sign up/in if you have to and go to the [Compute Engine](https://console.cloud.google.com/compute) section using the hamburger menu top left.
-2.  Enable Compute Engine it's not already enabled and then set up billing (you need to add a credit card or PayPal but don't worry you won't be charged).
+2.  Enable Compute Engine if it's not already enabled and then set up billing (you need to add a credit card or PayPal but don't worry you won't be charged).
 3.  Create a new instance in one of the free tier locations (Iowa, Oregon, or South Carolina) with machine type `f1-micro`.
 
 ![Pricing](/public/img/google-cloud-pricing.png)
