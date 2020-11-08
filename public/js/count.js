@@ -3,6 +3,10 @@ const countHits = async () => {
   const json = await response.json();
 
   console.log(json);
+
+  const hitCounter = document.querySelector(".hit-counter");
+
+  hitCounter.innerHTML = `Hits: ${json.count}`;
 };
 
 countHits();
