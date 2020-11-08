@@ -13,13 +13,11 @@ I'm writing this primarily for my own reference — so I don't forget how to do 
 
 Simple right? OK!
 
-> Note: I'll be running all this on my Google Cloud Compute instance. You can learn how to set one up for free using [this handy tutorial](https://phocks.github.io/a-free-google-server-forever.html) that I wrote last time.
-
-But we'll get to that part later.
+> Note: I'll be running all this on my Google Cloud Compute instance. You can learn how to set one up for free using [this handy tutorial](https://phocks.github.io/a-free-google-server-forever.html) that I wrote last time. But we'll get to that part later.
 
 First up let's do an <abbr  title="Minimum Viable Product">MVP</abbr>. We'll be running our web server on Deno so make sure [it's installed](https://deno.land) — or you can use Node.js/Express if you're familiar with that. Basically we just want a http server listening on a <abbr title="Transmission Control Protocol">TCP</abbr> port.
 
-Make `server.ts` in a new project folder and chuck in:
+Make a `server.ts` in a new project folder and chuck in the following:
 
 ```typescript
 import { Application } from "https://deno.land/x/oak/mod.ts";
@@ -34,7 +32,7 @@ console.log("Listening on http://localhost:12345");
 await app.listen({ port: 12345 });
 ```
 
-And then run `deno run --allow-net server.ts`
+And then run `deno run --allow-net server.ts` and we'll be listening on http://localhost:12345
 
 ---
 
