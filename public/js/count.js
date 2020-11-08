@@ -1,5 +1,5 @@
 const countHits = async () => {
-  const response = await fetch("http://localhost:65000/count");
+  const response = await fetch("https://api.phocks.org/count");
   const json = await response.json();
 
   console.log(json);
