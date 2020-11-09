@@ -4,6 +4,9 @@ const countHits = async () => {
     method: "POST",
     body: JSON.stringify({ referer: window.location.href }),
   });
+
+  if (!response.ok) return;
+
   const json = await response.json();
 
   console.log(json);
