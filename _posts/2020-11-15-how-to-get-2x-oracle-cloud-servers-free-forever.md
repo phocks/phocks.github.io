@@ -10,7 +10,7 @@ In the comments [selim13](https://dev.to/selim13) let me know that Oracle was of
 
 ![Comment](/public/img/oracle-comment.png)
 
-The servers have twice the RAM that Google offers and more Hard Disk space plus 2 CPU cores compared with 1 on Google Cloud. And they've even upped the bandwidth speed from 10 Mbps to 50 Mbps and you get 10 TB outgoing traffic per month compared with 1 GB on Google! Seems like a great deal. Anyway here's how to do it.
+The servers have twice the RAM that Google offers and more Hard Disk space plus 2 CPU cores compared with 1 on Google Cloud. And you get 10 TB outgoing traffic per month compared with 1 GB on Google! Seems like a great deal. Anyway here's how to do it.
 
 Go [here](https://www.oracle.com/au/cloud/free/) and click **Start for free**. Then enter your country, name, and confirm your email. 
 
