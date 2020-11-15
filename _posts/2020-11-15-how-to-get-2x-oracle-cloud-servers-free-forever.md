@@ -8,7 +8,7 @@ This is a follow up to my [How to get a Google server free forever](https://dev.
 
 In the comments [selim13](https://dev.to/selim13) let me know that Oracle was offering a similar deal but even better!
 
-{% comment 17on5 %}
+![Comment](/public/img/oracle-comment.png)
 
 The servers have twice the RAM that Google offers and more Hard Disk space plus 2 CPU cores compared with 1 on Google Cloud. And they've even upped the bandwidth speed from 10 Mbps to 50 Mbps and you get 10 TB outgoing traffic per month compared with 1 GB on Google! Seems like a great deal. Anyway here's how to do it.
 
