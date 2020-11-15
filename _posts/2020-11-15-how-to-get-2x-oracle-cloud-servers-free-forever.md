@@ -16,11 +16,11 @@ Go [here](https://www.oracle.com/au/cloud/free/) and click **Start for free**. T
 
 > *Note: my confirmation email went to spam so check there*
 
-![Sign up](https://dev-to-uploads.s3.amazonaws.com/i/fc5nygsa2uqz3yafwh1l.PNG)
+![Sign up](/public/img/email-signup.png)
 
 Choose a username and password and make sure you choose a region that includes the [always free cloud services](https://www.oracle.com/cloud/data-regions.html#northamerica).
 
-![Choose region](https://dev-to-uploads.s3.amazonaws.com/i/8we9iscc83t81vcad3c3.PNG)
+![Choose region](/public/img/username-region.png)
 
 Fill in your address, verify your mobile number, then hand over your credit card details.
 
@@ -28,23 +28,23 @@ Fill in your address, verify your mobile number, then hand over your credit card
 
 Pretty soon they'll send through your access details via email so you can log in. Then you'll get this screen.
 
-![Build your server](https://dev-to-uploads.s3.amazonaws.com/i/6djsph7ge9yvzvpwnbpj.PNG)
+![Build your server](/public/img/create-vm.png)
 
 Click on **Create a VM instance** and configure your machine.
 
 I switched from Oracle Linux to Ubuntu Linux but other than that I just kept all the defaults. You can change the boot image by clicking **Edit** in the **Configure placement and hardware** section.
 
-![Edit image](https://dev-to-uploads.s3.amazonaws.com/i/ggxbnwymfqx9y4hp99sx.PNG)
+![Edit image](/public/img/config-image.png)
 
 **IMPORTANT: SAVE THE PRIVATE KEY**
 
-![Save the private key](https://dev-to-uploads.s3.amazonaws.com/i/4byujr1tqjkvjhhluur2.PNG)
+![Save the private key](/public/img/download-ssh.png)
 
 > *You will not get another chance to do this and will not be able to access the server without it*
 
 Click **Create** and your server will spin up!
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/0y59wxzsj1s6rw2i7smu.PNG)
+![Alt Text](/public/img/ip-address-vm.png)
 
 Repeat this from **Create a VM instance** to get your 2nd free server.
 
